@@ -1,0 +1,42 @@
+var express = require('express'),
+	superagent = require('superagent'),
+	cheerio = require('cheerio');
+
+var app = express();
+
+var yahooCalenderURL = "http://biz.yahoo.com/research/earncal/20150831.html";
+app.get("/", function(req, res, next){
+	superagent.get(yahooCalenderURL)
+		.end(function(err,sres){
+			if (err) {
+				return next(err);
+			};
+
+			var $ = cheerio.load(sres.text);
+			//第三个p标签的第一个table
+			var table = $('p').eq(3).find('table').first().html();
+
+			var items = [];
+
+			//遍历行，提取公司名和股票代码
+			$(table).find('tr').each(function(idx,element){
+				// console.log('........................行内容:', $(element).text());
+				if (idx==0 || idx==1) return true;
+				var td = $(element).find('td'),
+				 	companyName = $(td).eq(0).text(),
+				 	stockCode = $(td).eq(1).text();
+
+				if (companyName.trim()=='') return true;
+				items.push({
+					company:companyName,
+					stock:stockCode
+				});
+				
+			});
+			res.send(items);
+		});
+});
+
+app.listen(3000, function(){
+	console.log('app is listening at port 3000');
+})
