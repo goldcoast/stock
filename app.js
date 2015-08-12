@@ -4,9 +4,18 @@ var express = require('express'),
 
 var app = express();
 
-var yahooCalenderURL = "http://biz.yahoo.com/research/earncal/20150831.html";
+var topGaniersLink = 'http://finance.yahoo.com/_remote/?m_id=MediaRemoteInstance&instance_id=85ac7b2b-640f-323f-a1c1-00b2f4865d18&mode=xhr&ctab=tab3&nolz=1&count=20&start=0&category=percentagelosers&no_tabs=1',
+	topLosersLink = '',
+	stockCenterLink = 'http://finance.yahoo.com/stock-center/',
+	earningsCalendarLink = 'http://biz.yahoo.com/research/earncal/20150831.html';
+
 app.get("/", function(req, res, next){
-	superagent.get(yahooCalenderURL)
+	//取出指定日期将发布财报的公司名称和其股票代码 （数据来源，yahoo finance)
+	getReportCompanys();
+});
+
+var getReportCompanys = function(){
+	superagent.get(earningsCalendarLink)
 		.end(function(err,sres){
 			if (err) {
 				return next(err);
@@ -35,8 +44,7 @@ app.get("/", function(req, res, next){
 			});
 			res.send(items);
 		});
-});
-
+}
 app.listen(3000, function(){
 	console.log('app is listening at port 3000');
 })
