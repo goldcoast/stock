@@ -12,7 +12,7 @@ Date.prototype.addHours= function(h){
 var today = (new Date()).toISOString().slice(0, 10).replace(/-/g,''),
 	reportDay = (new Date().addHours(-12)).toISOString().slice(0, 10).replace(/-/g,'');
 
-var topLength = 10;
+var topLength = 20;
 	topGaniersLink = 'http://finance.yahoo.com/_remote/?m_id=MediaRemoteInstance&instance_id=85ac7b2b-640f-323f-a1c1-00b2f4865d18&mode=xhr&ctab=tab2&nolz=1&count='+topLength+'&start=0&category=percentagegainers&no_tabs=1',
 	topLosersLink  = 'http://finance.yahoo.com/_remote/?m_id=MediaRemoteInstance&instance_id=85ac7b2b-640f-323f-a1c1-00b2f4865d18&mode=xhr&ctab=tab3&nolz=1&count='+topLength+'&start=0&category=percentagelosers&no_tabs=1',
 	stockCenterLink = 'http://finance.yahoo.com/stock-center/',
@@ -30,8 +30,8 @@ var createFolder = function(reportDate){
 /**
 * fileName : top loser, top ganier
 */
-var writeData = function(fileName, reportDate, data){
-	var fName = './'+reportDate+'/'+fileName+'.json';
+var writeData = function(fileName, data, reportDate){
+	var fName = './'+reportDate+'/'+fileName;
 	console.log('file name: ', fName);
 	if (!fs.existsSync(fName)) {
 		console.log('write')
@@ -65,6 +65,7 @@ var fetchTopStock = function(req, res, next){
 	superagent.get(topGaniersLink)
 		.end(function(err,sres){
 			if (err) {
+				console.error(' excpetion occured.... ')
 				return next(err);
 			};
 
@@ -72,13 +73,13 @@ var fetchTopStock = function(req, res, next){
 			//第三个p标签的第一个table
 			var tr = $('tbody tr');
 
-			console.log('getTopStock each ..', tr);
+			// console.log('getTopStock each ..', tr);
 
 			var topList = [];
 
 			//遍历行，提取公司名和股票代码
 			tr.each(function(idx,element){
-				console.log('each tr ..', $(element).text() )
+				// console.log('each tr ..', $(element).text() )
 				var td = $(element).find('td'),
 				 	symbol = $(td).eq(0).children('a').text();
 				 	companyName = $(td).eq(1).text(),
@@ -100,20 +101,24 @@ var fetchTopStock = function(req, res, next){
 				
 			});
 
-			fs.writeFileSync('./topdata_'+reportDay+'.json',JSON.stringify(topList));
+			writeData('topdata_'+reportDay+'.json', topList,reportDay);
+
+			// fs.writeFileSync('./topdata_'+reportDay+'.json',JSON.stringify(topList));
 
 
-			console.log('getTopStock each done .. and write file done')
+			console.info('top length', topList.length);
+			console.info('getTopStock each done .. and write file done');
 
 			// filterSymbol(reportList, topList, finalList, res);
 			res.send(topList);
 	});
 }
 
-var getTopData = function(){
+//暂时只取top100的，等这个完成再加其它的。
+/*var getTopData = function(){
 	var topArray = [topGaniersLink, topLosersLink];
 	var JsonObj=JSON.parse(fs.readFileSync('./output.json'));
-}
+}*/
 //取出指定日期将发布财报的公司名称和其股票代码 （数据来源，yahoo finance)
 var getReportCompanys = function(req, res, next, reportList){
 		console.log('accessing earningsCalendarLink: ', earningsCalendarLink);
@@ -146,12 +151,12 @@ var getReportCompanys = function(req, res, next, reportList){
 					
 				});
 
-				writeData('./earningsCalendar_'+reportDay+'.json',reportDay, reportList);
+				writeData('earningsCalendar_'+reportDay+'.json', reportList, reportDay);
 				// topLength = reportList.length;
 				// if (topLength> 50) {
 				// 	topLength  = 30;
 				// };
-				console.log(' done .... topLength, ', topLength, 'reportList.length', reportList.length);
+				console.log( '****** reportList.length', reportList.length);
 				// topGaniersLink = topGaniersLink.replace('topLength', topLength);
 				// console.log('getReportCompanys each done ..')
 
@@ -162,20 +167,23 @@ var getReportCompanys = function(req, res, next, reportList){
 
 
 app.get("/", function(req, res, next){
-	console.log('..................................start .............................')
+	console.info('..................................start .............................')
 	createFolder(reportDay);
-	var reportList = [];
+	// var reportList = [];
 	// getTopStock(req, res, next);
-	getReportCompanys(req,res, next, reportList);
+	// getReportCompanys(req,res, next, reportList);
 
-	if (reportList.length>20) {
+
+	fetchTopStock(req, res, next);
+
+	// if (reportList.length>20) {
 		//todo 如果长度为 38 将长度分解为数组 [10,20,30, 38]类似的
 		//再遍历
-	};
+	// };
 
 	// fs.mkdirSync('./test_'+reportDay,'777');   
-	console.log('..................................finished .............................')
-	console.log('')
+	console.info('..................................finished .............................')
+	console.info('')
 });
 
 app.listen(3000, function(){
