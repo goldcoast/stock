@@ -1,0 +1,52 @@
+{
+    "ganier": [{
+        "company": "Tech Data Corp.",
+        "symbol": "TECD",
+        "price": "65.545",
+        "change": "+9.275",
+        "percentage": "+16.48%",
+        "lastTrade": "9:58 AM EDT",
+        "volume": "320,615"
+    }, {
+        "company": "Cyberonics Inc.",
+        "symbol": "CYBX",
+        "price": "64.595",
+        "change": "+4.185",
+        "percentage": "+6.93%",
+        "lastTrade": "9:58 AM EDT",
+        "volume": "234,052"
+    }],
+    "loser": [{
+        "company": "Stage Stores Inc.",
+        "symbol": "SSI",
+        "price": "11.825",
+        "change": "-5.075",
+        "percentage": "-30.03%",
+        "lastTrade": "9:58 AM EDT",
+        "volume": "1,216,533"
+    }, {
+        "company": "Raven Industries Inc.",
+        "symbol": "RAVN",
+        "price": "17.09",
+        "change": "-1.56",
+        "percentage": "-8.36%",
+        "lastTrade": "9:57 AM EDT",
+        "volume": "98,350"
+    }, {
+        "company": "Kirkland's Inc.",
+        "symbol": "KIRK",
+        "price": "23.28",
+        "change": "-3.40",
+        "percentage": "-12.74%",
+        "lastTrade": "9:58 AM EDT",
+        "volume": "101,169"
+    }, {
+        "company": "Bon-Ton Stores Inc.",
+        "symbol": "BONT",
+        "price": "3.4596",
+        "change": "-0.4404",
+        "percentage": "-11.29%",
+        "lastTrade": "9:57 AM EDT",
+        "volume": "141,031"
+    }]
+}

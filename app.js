@@ -65,75 +65,40 @@ var writeData = function(fileName, data, reportDate){
 
 var readData = function(fileName, reportDate){
 	var filePath = './'+reportDate+'/'+fileName;
-	// console.log('**********    filePath', filePath);
 	if (fs.existsSync(filePath)) {
 		var data = JSON.parse(fs.readFileSync(filePath));
-		console.log('reade data success', data.length)
 		return data;
 	}else{
-		// console.log('reade data return undefined')
 		return undefined;
 	}
 }
 //filter the symbol which we need 
 var filterSymbol = function(){
-	console.log("...... filterSymbol start ")
+
 	var ganierList = readData(fileName.ganier+reportDay+'.json', reportDay);
-	console.log('loop compare ganierList length：', ganierList.length);
-
 	var loserList = readData(fileName.loser+reportDay+'.json', reportDay);
-	console.info( 'loserList length',loserList.length);
-	for(var a=0,j=0; a<10000; a++){
-		j++;
-	}
 	var reportedList = readData(fileName.reported+reportDay+'.json', reportDay);
-	console.info('reportList length', reportedList.length);
 
-	var result = {},
-		ganierResult =  [],
-		loserResult = [];
-		
+	var result = {ganier:[], loser:[]};
 
-
-	console.info('loop compare ganierList ...')
 	for (var i = reportedList.length - 1; i >= 0; i--) {
-		console.log('i -- ', i);
 		var report = reportedList[i];
-		if (i==33) {
-			console.log(report)
-		};
 		for (var j = ganierList.length - 1; j >= 0; j--) {
 			var top = ganierList[j];
-			if (i==33) {
-			console.log('top', top, 'j',j)
-		};
-
 			if (top.symbol === report.symbol) {
-				// console.log('top.symbol', j, top.symbol);
-				ganierResult.push(top);
+				result.ganier.push(top);
 			};
 		};
-	};
-
-
-	console.info('loop compare loserList ...')
-
-	for (var m = reportedList.length - 1; m >= 0; m--) {
-		console.log('m--', m);
-		var report = reportedList[m];
 		for (var n = loserList.length - 1; n >= 0; n--) {
 			var top = loserList[n];
 			if (top.symbol === report.symbol) {
 				// console.log('top.symbol', j, top.symbol);
-				loserResult.push(top);
+				result.loser.push(top);
 			};
 		};
-	};
-	result.ganier = ganierResult;
-	result.loser = loserResult;
 
-	console.log("...... done finalList length ", finalList.length)
-	// res.send(finalList);
+	};
+
 	writeData('result.json', result, reportDay);
 	console.info('..................................finished .............................')
 
@@ -238,7 +203,7 @@ var getReportCompanys = function(req, res, next){
 				fetchTopStock(req, res, next, topLink.ganier, fileType.ganier);
 
 				setTimeout(function(){
-					// fetchTopStock(req, res, next, topLink.loser, fileType.loser);
+					fetchTopStock(req, res, next, topLink.loser, fileType.loser);
 				}, 3000)
 			});
 	}
@@ -246,17 +211,20 @@ var getReportCompanys = function(req, res, next){
 
 
 app.get("/", function(req, res, next){
+	var resultStr = 'done !';
+	resultStr += "\n run with supervisor..."
 	console.info('..................................start .............................')
 	createFolder(reportDay);
 
-	getReportCompanys(req,res, next);
+
+	// getReportCompanys(req,res, next);
 
 	// fetchTopStock(req, res, next, topLink.loser, fileType.loser);
 
 	// filterSymbol();
 
-	console.info('')
-	res.send('done!');
+	console.info('');
+	res.send(resultStr);
 });
 
 app.listen(3000, function(){

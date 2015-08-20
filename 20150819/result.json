@@ -1,1 +1,20 @@
-[]
+{
+    "ganier": [{
+        "company": "Citi Trends, Inc.",
+        "symbol": "CTRN",
+        "price": "28.46",
+        "change": "+5.72",
+        "percentage": "+25.15%",
+        "lastTrade": "Aug 19 4:00 PM EDT",
+        "volume": "541,855"
+    }, {
+        "company": "Bonso Electronics International Inc.",
+        "symbol": "BNSO",
+        "price": "1.55",
+        "change": "+0.21",
+        "percentage": "+15.59%",
+        "lastTrade": "Aug 19 3:59 PM EDT",
+        "volume": "62,755"
+    }],
+    "loser": []
+}
