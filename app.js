@@ -2,7 +2,9 @@ var express = require('express'),
 	superagent = require('superagent'),
 	cheerio = require('cheerio'),
 	fs = require('fs'),
-	Q = require('q');
+	Q = require('q'),
+	Promise = this.Promise || require('promise'),
+	agent = require('superagent-promise')(require('superagent'), Promise);
 
 var app = express();
 Date.prototype.addHours= function(h){
@@ -48,68 +50,107 @@ var createFolder = function(reportDate){
 */
 var writeData = function(fileName, data, reportDate){
 	var fName = './'+reportDate+'/'+fileName;
-	console.log('file name: ', fName);
-	if (!fs.existsSync(fName)) {
-		console.log('write')
+	console.log('write data to file: ', fName);
+	// if (!fs.existsSync(fName)) {
+	// 	console.log('write')
 		fs.writeFileSync(fName, JSON.stringify(data));
-	}else{
-		console.log('append..')
+	// }else{
+	// 	console.log('append..')
 
-		fs.appendFileSync(fName, JSON.stringify(data));
-	}
+	// 	fs.appendFileSync(fName, "\n appended content: \n");
+
+	// 	fs.appendFileSync(fName, JSON.stringify(data));
+	// }
 }
 
 var readData = function(fileName, reportDate){
 	var filePath = './'+reportDate+'/'+fileName;
-	console.log('filePath', filePath);
+	// console.log('**********    filePath', filePath);
 	if (fs.existsSync(filePath)) {
-		return JSON.parse(fs.readFileSync(filePath));
+		var data = JSON.parse(fs.readFileSync(filePath));
+		console.log('reade data success', data.length)
+		return data;
 	}else{
+		// console.log('reade data return undefined')
 		return undefined;
 	}
 }
 //filter the symbol which we need 
 var filterSymbol = function(){
 	console.log("...... filterSymbol start ")
-	var ganierList = readData(fileName.ganier+reportDay+'.json', reportDay),
-		loserList = readData(fileName.loser+reportDay+'.json', reportDay),
-		reportedList = readData(fileName.reported+reportDay+'.json', reportDay),
-		finalList = [];
+	var ganierList = readData(fileName.ganier+reportDay+'.json', reportDay);
+	console.log('loop compare ganierList length：', ganierList.length);
 
-	// console.log('ganier list: ', ganierList);
-	// console.log('------------------------------------------------------------');
-	// console.log('reportedList list: ', reportedList);
+	var loserList = readData(fileName.loser+reportDay+'.json', reportDay);
+	console.info( 'loserList length',loserList.length);
+	for(var a=0,j=0; a<10000; a++){
+		j++;
+	}
+	var reportedList = readData(fileName.reported+reportDay+'.json', reportDay);
+	console.info('reportList length', reportedList.length);
 
+	var result = {},
+		ganierResult =  [],
+		loserResult = [];
+		
+
+
+	console.info('loop compare ganierList ...')
 	for (var i = reportedList.length - 1; i >= 0; i--) {
+		console.log('i -- ', i);
 		var report = reportedList[i];
-		for (var j = loserList.length - 1; j >= 0; j--) {
-			var top = loserList[j];
-			if (top.symbol === report.stock) {
-				console.log('top.symbol', j, top.symbol);
-				finalList.push(top);
+		if (i==33) {
+			console.log(report)
+		};
+		for (var j = ganierList.length - 1; j >= 0; j--) {
+			var top = ganierList[j];
+			if (i==33) {
+			console.log('top', top, 'j',j)
+		};
+
+			if (top.symbol === report.symbol) {
+				// console.log('top.symbol', j, top.symbol);
+				ganierResult.push(top);
 			};
 		};
 	};
-	console.log("...... done finalList is ", finalList)
+
+
+	console.info('loop compare loserList ...')
+
+	for (var m = reportedList.length - 1; m >= 0; m--) {
+		console.log('m--', m);
+		var report = reportedList[m];
+		for (var n = loserList.length - 1; n >= 0; n--) {
+			var top = loserList[n];
+			if (top.symbol === report.symbol) {
+				// console.log('top.symbol', j, top.symbol);
+				loserResult.push(top);
+			};
+		};
+	};
+	result.ganier = ganierResult;
+	result.loser = loserResult;
+
+	console.log("...... done finalList length ", finalList.length)
 	// res.send(finalList);
-	writeData('result.json', finalList, reportDay);
+	writeData('result.json', result, reportDay);
+	console.info('..................................finished .............................')
+
 }
 // get the top symbol data
 var fetchTopStock = function(req, res, next, dataLink, dataType){
-	console.log('accessing topGaniersLink: ', topGaniersLink);
-	superagent.get(dataLink)
+	agent.get(dataLink)
 		.timeout(TIME_OUT)
 		.end(function(err,sres){
 			if (err) {
-				console.error(' excpetion occured.... ')
+				console.error('occured excpetion in fetchTopStock()...')
 				return next(err);
 			};
 
 			var $ = cheerio.load(sres.text);
 			//第三个p标签的第一个table
 			var tr = $('tbody tr');
-
-			// console.log('getTopStock each ..', tr);
 
 			var topList = [];
 
@@ -139,14 +180,9 @@ var fetchTopStock = function(req, res, next, dataLink, dataType){
 
 			writeData('topdata_'+dataType+'_'+reportDay+'.json', topList,reportDay);
 
-			// fs.writeFileSync('./topdata_'+reportDay+'.json',JSON.stringify(topList));
-
-
-			console.info('top length', topList.length);
-			console.info('getTopStock each done .. and write file done');
-
-			// filterSymbol(reportList, topList, finalList, res);
-			// res.send('top length: '+topList.length);
+	})
+	.then(function(){
+		filterSymbol();
 	});
 }
 
@@ -159,10 +195,11 @@ var fetchTopStock = function(req, res, next, dataLink, dataType){
 *///取出指定日期将发布财报的公司名称和其股票代码 （数据来源，yahoo finance)
 var getReportCompanys = function(req, res, next){
 		console.log('accessing earningsCalendarLink: ', earningsCalendarLink);
-		superagent.get(earningsCalendarLink)
+		agent.get(earningsCalendarLink)
 			.timeout(TIME_OUT)
 			.end(function(err,sres){
 				if (err) {
+					console.error('occured excpetion in getReportCompanys()...')
 					return next(err);
 				};
 
@@ -194,7 +231,15 @@ var getReportCompanys = function(req, res, next){
 				// topGaniersLink = topGaniersLink.replace('topLength', topLength);
 				// console.log('getReportCompanys each done ..')
 
-				res.send( '****** reportList.length: '+ reportList.length);
+				// res.send( '****** reportList.length: '+ reportList.length);
+			})
+			.then(function(){
+
+				fetchTopStock(req, res, next, topLink.ganier, fileType.ganier);
+
+				setTimeout(function(){
+					// fetchTopStock(req, res, next, topLink.loser, fileType.loser);
+				}, 3000)
 			});
 	}
 
@@ -204,13 +249,12 @@ app.get("/", function(req, res, next){
 	console.info('..................................start .............................')
 	createFolder(reportDay);
 
-	// getReportCompanys(req,res, next);
+	getReportCompanys(req,res, next);
 
 	// fetchTopStock(req, res, next, topLink.loser, fileType.loser);
 
-	filterSymbol();
+	// filterSymbol();
 
-	console.info('..................................finished .............................')
 	console.info('')
 	res.send('done!');
 });
