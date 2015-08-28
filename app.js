@@ -14,6 +14,7 @@ Date.prototype.addHours= function(h){
 var today = (new Date()).toISOString().slice(0, 10).replace(/-/g,''),
 	reportDay = (new Date().addHours(-12)).toISOString().slice(0, 10).replace(/-/g,'');
 
+console.log('today is:', today, 'report day:', reportDay);
 var topLength = 50,
 	TIME_OUT = 5000, //5S
 	topGaniersLink = 'http://finance.yahoo.com/_remote/?m_id=MediaRemoteInstance&instance_id=85ac7b2b-640f-323f-a1c1-00b2f4865d18&mode=xhr&ctab=tab2&nolz=1&count='+topLength+'&start=0&category=percentagegainers&no_tabs=1',
@@ -217,7 +218,7 @@ app.get("/", function(req, res, next){
 	createFolder(reportDay);
 
 
-	// getReportCompanys(req,res, next);
+	getReportCompanys(req,res, next);
 
 	// fetchTopStock(req, res, next, topLink.loser, fileType.loser);
 

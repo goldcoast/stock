@@ -1,52 +1,92 @@
 {
     "ganier": [{
-        "company": "Tech Data Corp.",
-        "symbol": "TECD",
-        "price": "65.545",
-        "change": "+9.275",
-        "percentage": "+16.48%",
-        "lastTrade": "9:58 AM EDT",
-        "volume": "320,615"
+        "company": "New York & Company Inc.",
+        "symbol": "NWY",
+        "price": "2.71",
+        "change": "+0.60",
+        "percentage": "+28.44%",
+        "lastTrade": "Aug 21 4:03 PM EDT",
+        "volume": "766,875"
     }, {
-        "company": "Cyberonics Inc.",
-        "symbol": "CYBX",
-        "price": "64.595",
-        "change": "+4.185",
-        "percentage": "+6.93%",
-        "lastTrade": "9:58 AM EDT",
-        "volume": "234,052"
+        "company": "Brocade Communications Systems, Inc.",
+        "symbol": "BRCD",
+        "price": "10.59",
+        "change": "+0.87",
+        "percentage": "+8.95%",
+        "lastTrade": "Aug 21 3:59 PM EDT",
+        "volume": "18,552,830"
+    }, {
+        "company": "American Woodmark Corp.",
+        "symbol": "AMWD",
+        "price": "67.80",
+        "change": "+7.49",
+        "percentage": "+12.42%",
+        "lastTrade": "Aug 21 4:00 PM EDT",
+        "volume": "458,743"
+    }, {
+        "company": "Accuray Incorporated",
+        "symbol": "ARAY",
+        "price": "6.58",
+        "change": "+0.74",
+        "percentage": "+12.67%",
+        "lastTrade": "Aug 21 3:59 PM EDT",
+        "volume": "5,482,131"
+    }, {
+        "company": "AAC Holdings, Inc.",
+        "symbol": "AAC",
+        "price": "24.30",
+        "change": "+2.51",
+        "percentage": "+11.52%",
+        "lastTrade": "Aug 21 4:01 PM EDT",
+        "volume": "1,126,344"
     }],
     "loser": [{
+        "company": "Tuesday Morning Corporation",
+        "symbol": "TUES",
+        "price": "5.91",
+        "change": "-3.35",
+        "percentage": "-36.18%",
+        "lastTrade": "Aug 21 4:00 PM EDT",
+        "volume": "7,754,105"
+    }, {
         "company": "Stage Stores Inc.",
         "symbol": "SSI",
-        "price": "11.825",
-        "change": "-5.075",
-        "percentage": "-30.03%",
-        "lastTrade": "9:58 AM EDT",
-        "volume": "1,216,533"
+        "price": "9.82",
+        "change": "-2.13",
+        "percentage": "-17.82%",
+        "lastTrade": "Aug 21 4:04 PM EDT",
+        "volume": "5,115,473"
     }, {
-        "company": "Raven Industries Inc.",
-        "symbol": "RAVN",
-        "price": "17.09",
-        "change": "-1.56",
-        "percentage": "-8.36%",
-        "lastTrade": "9:57 AM EDT",
-        "volume": "98,350"
+        "company": "Nordson Corporation",
+        "symbol": "NDSN",
+        "price": "62.44",
+        "change": "-8.71",
+        "percentage": "-12.24%",
+        "lastTrade": "Aug 21 4:00 PM EDT",
+        "volume": "1,418,611"
     }, {
-        "company": "Kirkland's Inc.",
-        "symbol": "KIRK",
-        "price": "23.28",
-        "change": "-3.40",
-        "percentage": "-12.74%",
-        "lastTrade": "9:58 AM EDT",
-        "volume": "101,169"
+        "company": "Intuit Inc.",
+        "symbol": "INTU",
+        "price": "89.28",
+        "change": "-13.65",
+        "percentage": "-13.26%",
+        "lastTrade": "Aug 21 4:00 PM EDT",
+        "volume": "8,703,006"
     }, {
-        "company": "Bon-Ton Stores Inc.",
-        "symbol": "BONT",
-        "price": "3.4596",
-        "change": "-0.4404",
-        "percentage": "-11.29%",
-        "lastTrade": "9:57 AM EDT",
-        "volume": "141,031"
+        "company": "The Fresh Market, Inc.",
+        "symbol": "TFM",
+        "price": "19.69",
+        "change": "-6.90",
+        "percentage": "-25.95%",
+        "lastTrade": "Aug 21 4:00 PM EDT",
+        "volume": "12,096,935"
+    }, {
+        "company": "ChinaCache International Holdings Ltd.",
+        "symbol": "CCIH",
+        "price": "5.59",
+        "change": "-2.92",
+        "percentage": "-34.31%",
+        "lastTrade": "Aug 21 4:00 PM EDT",
+        "volume": "1,962,001"
     }]
 }

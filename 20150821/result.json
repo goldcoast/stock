@@ -1,0 +1,12 @@
+{
+    "ganier": [],
+    "loser": [{
+        "company": "MOL Global, Inc.",
+        "symbol": "MOLG",
+        "price": "0.851",
+        "change": "-0.249",
+        "percentage": "-22.64%",
+        "lastTrade": "Aug 21 3:59 PM EDT",
+        "volume": "246,424"
+    }]
+}
