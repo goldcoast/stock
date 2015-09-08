@@ -1,0 +1,20 @@
+{
+    "ganier": [{
+        "company": "Express Inc.",
+        "symbol": "EXPR",
+        "price": "20.25",
+        "change": "+3.35",
+        "percentage": "+19.82%",
+        "lastTrade": "Aug 26 4:02 PM EDT",
+        "volume": "11,168,163"
+    }, {
+        "company": "EVINE Live Inc.",
+        "symbol": "EVLV",
+        "price": "2.23",
+        "change": "+0.27",
+        "percentage": "+13.78%",
+        "lastTrade": "Aug 26 4:00 PM EDT",
+        "volume": "270,255"
+    }],
+    "loser": []
+}
