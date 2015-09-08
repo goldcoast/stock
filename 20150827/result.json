@@ -1,1 +1,52 @@
-{"ganier":[{"company":"REX American Resources Corporation","symbol":"REX","price":"56.66","change":"+11.02","percentage":"+24.15%","lastTrade":"Aug 27 4:06 PM EDT","volume":"361,118"},{"company":"Movado Group, Inc.","symbol":"MOV","price":"27.07","change":"+4.75","percentage":"+21.28%","lastTrade":"Aug 27 4:06 PM EDT","volume":"1,894,236"},{"company":"Jupai Holdings Limited","symbol":"JP","price":"10.28","change":"+1.90","percentage":"+22.67%","lastTrade":"Aug 27 4:00 PM EDT","volume":"100,252"},{"company":"Iao Kun Group Holding Company Limited","symbol":"IKGH","price":"1.77","change":"+0.28","percentage":"+18.79%","lastTrade":"Aug 27 3:59 PM EDT","volume":"203,916"},{"company":"Destination XL Group, Inc.","symbol":"DXLG","price":"5.31","change":"+0.88","percentage":"+19.86%","lastTrade":"Aug 27 4:00 PM EDT","volume":"397,434"}],"loser":[{"company":"1-800-Flowers.com Inc.","symbol":"FLWS","price":"8.43","change":"-1.17","percentage":"-12.19%","lastTrade":"Aug 27 4:00 PM EDT","volume":"2,067,723"}]}
+{
+    "ganier": [{
+        "company": "REX American Resources Corporation",
+        "symbol": "REX",
+        "price": "56.66",
+        "change": "+11.02",
+        "percentage": "+24.15%",
+        "lastTrade": "Aug 27 4:06 PM EDT",
+        "volume": "361,118"
+    }, {
+        "company": "Movado Group, Inc.",
+        "symbol": "MOV",
+        "price": "27.07",
+        "change": "+4.75",
+        "percentage": "+21.28%",
+        "lastTrade": "Aug 27 4:06 PM EDT",
+        "volume": "1,894,236"
+    }, {
+        "company": "Jupai Holdings Limited",
+        "symbol": "JP",
+        "price": "10.28",
+        "change": "+1.90",
+        "percentage": "+22.67%",
+        "lastTrade": "Aug 27 4:00 PM EDT",
+        "volume": "100,252"
+    }, {
+        "company": "Iao Kun Group Holding Company Limited",
+        "symbol": "IKGH",
+        "price": "1.77",
+        "change": "+0.28",
+        "percentage": "+18.79%",
+        "lastTrade": "Aug 27 3:59 PM EDT",
+        "volume": "203,916"
+    }, {
+        "company": "Destination XL Group, Inc.",
+        "symbol": "DXLG",
+        "price": "5.31",
+        "change": "+0.88",
+        "percentage": "+19.86%",
+        "lastTrade": "Aug 27 4:00 PM EDT",
+        "volume": "397,434"
+    }],
+    "loser": [{
+        "company": "1-800-Flowers.com Inc.",
+        "symbol": "FLWS",
+        "price": "8.43",
+        "change": "-1.17",
+        "percentage": "-12.19%",
+        "lastTrade": "Aug 27 4:00 PM EDT",
+        "volume": "2,067,723"
+    }]
+}

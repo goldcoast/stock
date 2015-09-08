@@ -1,0 +1,12 @@
+{
+    "ganier": [{
+        "company": "Sears Hometown and Outlet Stores, Inc.",
+        "symbol": "SHOS",
+        "price": "7.62",
+        "change": "+0.62",
+        "percentage": "+8.86%",
+        "lastTrade": "Sep 4 4:00 PM EDT",
+        "volume": "222,622"
+    }],
+    "loser": []
+}
