@@ -2,9 +2,19 @@ var express = require('express'),
 	superagent = require('superagent'),
 	cheerio = require('cheerio'),
 	fs = require('fs'),
+	later = require('later'),
 	Q = require('q'),
 	Promise = this.Promise || require('promise'),
 	agent = require('superagent-promise')(require('superagent'), Promise);
+
+
+var sched = later.parse.recur().every(2).second(),
+      t = later.setInterval(test, sched);
+
+function test() {
+	console.log('....', (new Date().toLocaleString()));
+}
+
 
 var app = express();
 Date.prototype.addHours= function(h){
@@ -17,9 +27,9 @@ var today = (new Date()).toISOString().slice(0, 10).replace(/-/g,''),
 	reportDay = (new Date().addHours(8-12)).toISOString().slice(0, 10).replace(/-/g,'');
 	
 
-//文件名带上时间戳
+//文件名带上时间戳,文件名为本地时间
 var getTimestamp = function(){
-	return (new Date().addHours(8-12)).toISOString().slice(0, 16).replace(/-/g,'').replace(/:/g,'');
+	return (new Date().addHours(8)).toISOString().slice(0, 16).replace(/-/g,'').replace(/:/g,'');
 }
 
 console.log('today is:', today, 'report day:', reportDay);
