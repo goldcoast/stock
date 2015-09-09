@@ -12,7 +12,15 @@ Date.prototype.addHours= function(h){
     return this;
 }
 var today = (new Date()).toISOString().slice(0, 10).replace(/-/g,''),
-	reportDay = (new Date().addHours(-12)).toISOString().slice(0, 10).replace(/-/g,'');
+//toISOString The timezone is always zero UTC offset, as denoted by the suffix "Z".
+//所以需要再加上8个小时，才是当前本地北京时间
+	reportDay = (new Date().addHours(8-12)).toISOString().slice(0, 10).replace(/-/g,'');
+	
+
+//文件名带上时间戳
+var getTimestamp = function(){
+	return (new Date().addHours(8-12)).toISOString().slice(0, 16).replace(/-/g,'').replace(/:/g,'');
+}
 
 console.log('today is:', today, 'report day:', reportDay);
 var topLength = 50,
@@ -100,7 +108,7 @@ var filterSymbol = function(){
 
 	};
 
-	writeData('result.json', result, reportDay);
+	writeData('result_'+getTimestamp()+'.json', result, reportDay);
 	console.info('..................................finished .............................')
 
 }
@@ -228,8 +236,8 @@ app.get("/", function(req, res, next){
 	res.send(resultStr);
 });
 
-app.listen(3000, function(){
-	console.log('app is listening at port 3000');
+app.listen(2013, function(){
+	console.log('app is listening at port 2013');
 })
 
 
