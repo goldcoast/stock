@@ -1,0 +1,60 @@
+{
+    "ganier": [{
+        "company": "TRC Companies Inc.",
+        "symbol": "TRR",
+        "price": "10.82",
+        "change": "+2.01",
+        "percentage": "+22.81%",
+        "lastTrade": "Sep 9 4:01 PM EDT",
+        "volume": "648,029"
+    }, {
+        "company": "Titan Machinery, Inc.",
+        "symbol": "TITN",
+        "price": "12.39",
+        "change": "+2.03",
+        "percentage": "+19.59%",
+        "lastTrade": "Sep 9 3:59 PM EDT",
+        "volume": "689,857"
+    }, {
+        "company": "Quanex Building Products Corporation",
+        "symbol": "NX",
+        "price": "20.21",
+        "change": "+2.42",
+        "percentage": "+13.60%",
+        "lastTrade": "Sep 9 4:02 PM EDT",
+        "volume": "821,831"
+    }, {
+        "company": "Intrawest Resorts Holdings, Inc.",
+        "symbol": "SNOW",
+        "price": "9.68",
+        "change": "+0.88",
+        "percentage": "+10.00%",
+        "lastTrade": "Sep 9 4:02 PM EDT",
+        "volume": "175,865"
+    }],
+    "loser": [{
+        "company": "Limoneira Company",
+        "symbol": "LMNR",
+        "price": "17.10",
+        "change": "-2.38",
+        "percentage": "-12.22%",
+        "lastTrade": "Sep 9 4:00 PM EDT",
+        "volume": "148,982"
+    }, {
+        "company": "Francesca's Holdings Corporation",
+        "symbol": "FRAN",
+        "price": "11.50",
+        "change": "-1.13",
+        "percentage": "-8.95%",
+        "lastTrade": "Sep 9 4:00 PM EDT",
+        "volume": "1,944,690"
+    }, {
+        "company": "Barnes & Noble, Inc.",
+        "symbol": "BKS",
+        "price": "11.80",
+        "change": "-4.50",
+        "percentage": "-27.61%",
+        "lastTrade": "Sep 9 4:00 PM EDT",
+        "volume": "9,453,867"
+    }]
+}

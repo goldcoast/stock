@@ -8,12 +8,25 @@ var express = require('express'),
 	agent = require('superagent-promise')(require('superagent'), Promise);
 
 
-var sched = later.parse.recur().every(2).second(),
-      t = later.setInterval(test, sched);
+console.log('--- current time', (new Date().toLocaleString()));
 
 function test() {
 	console.log('....', (new Date().toLocaleString()));
+	// count--;
+ //    if(count <= 0) {
+ //      t.clear();
+ //    }
 }
+// after 好象有问题，执行不行，所以用cron，这个不太好读，分时日月周 
+// var sched = later.parse.recur().after('17:00').time().before('18:00').time();
+
+var cron1 = later.parse.cron('48 18 ? * *');
+
+// var sched = later.parse.recur().on(5).minute().every(1).hour().after('17:00').time();
+// var sched = {schedules: [{h: [17,18,19,20,21,22,23]}]};
+	// sched = later.parse.recur().every(1).hour().after(16).hour().before(18).hour();
+var t = later.setInterval(test, cron1);
+    // count = 8;
 
 
 var app = express();
