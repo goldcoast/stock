@@ -1,0 +1,37 @@
+{
+    "ganier": [{
+        "company": "SigmaTron International Inc.",
+        "symbol": "SGMA",
+        "price": "6.32",
+        "change": "+0.86",
+        "percentage": "+15.75%",
+        "lastTrade": "Sep 11 3:56 PM EDT",
+        "volume": "75,425"
+    }],
+    "loser": [{
+        "company": "Optical Cable Corp.",
+        "symbol": "OCC",
+        "price": "3.32",
+        "change": "-0.37",
+        "percentage": "-10.03%",
+        "lastTrade": "Sep 11 3:20 PM EDT",
+        "volume": "3,699"
+    }, {
+        "company": "Mattress Firm Holding Corp.",
+        "symbol": "MFRM",
+        "price": "46.24",
+        "change": "-14.10",
+        "percentage": "-23.37%",
+        "lastTrade": "Sep 11 4:00 PM EDT",
+        "volume": "4,581,875"
+    }, {
+        "company": "Marvell Technology Group Ltd.",
+        "symbol": "MRVL",
+        "price": "8.84",
+        "change": "-1.71",
+        "percentage": "-16.21%",
+        "lastTrade": "Sep 11 4:00 PM EDT",
+        "volume": "45,292,725"
+    }]
+}
+Ó

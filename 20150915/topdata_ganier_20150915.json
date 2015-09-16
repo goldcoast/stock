@@ -1,0 +1,401 @@
+[{
+    "company": "Capnia, Inc.",
+    "symbol": "CAPN",
+    "price": "2.80",
+    "change": "+0.50",
+    "percentage": "+21.74%",
+    "lastTrade": "Sep 15 3:59 PM EDT",
+    "volume": "4,622,084"
+}, {
+    "company": "Zions Bancorporation",
+    "symbol": "ZIONZ",
+    "price": "2.41",
+    "change": "+0.39",
+    "percentage": "+19.31%",
+    "lastTrade": "Sep 15 3:19 PM EDT",
+    "volume": "101,445"
+}, {
+    "company": "IRSA Propiedades Comerciales S.A.",
+    "symbol": "IRCP",
+    "price": "31.00",
+    "change": "+5.00",
+    "percentage": "+19.23%",
+    "lastTrade": "Sep 15 12:01 PM EDT",
+    "volume": "851"
+}, {
+    "company": "National Bank of Greece SA Spon",
+    "symbol": "NBG-PA",
+    "price": "6.40",
+    "change": "+1.00",
+    "percentage": "+18.52%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "106,590"
+}, {
+    "company": "Maxwell Technologies, Inc.",
+    "symbol": "MXWL",
+    "price": "6.03",
+    "change": "+0.92",
+    "percentage": "+18.00%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "1,870,302"
+}, {
+    "company": "VolitionRX Ltd",
+    "symbol": "VNRX",
+    "price": "5.25",
+    "change": "+0.80",
+    "percentage": "+17.98%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "179,413"
+}, {
+    "company": "Gray Television, Inc.",
+    "symbol": "GTN-A",
+    "price": "11.33",
+    "change": "+1.62",
+    "percentage": "+16.68%",
+    "lastTrade": "Sep 15 3:14 PM EDT",
+    "volume": "2,126"
+}, {
+    "company": "Real Goods Solar, Inc.",
+    "symbol": "RGSE",
+    "price": "1.53",
+    "change": "+0.21",
+    "percentage": "+15.91%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "2,147,343"
+}, {
+    "company": "Organovo Holdings, Inc.",
+    "symbol": "ONVO",
+    "price": "3.52",
+    "change": "+0.47",
+    "percentage": "+15.41%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "2,497,224"
+}, {
+    "company": "WaferGen Bio-systems, Inc.",
+    "symbol": "WGBS",
+    "price": "1.76",
+    "change": "+0.23",
+    "percentage": "+15.03%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "630,754"
+}, {
+    "company": "API Technologies Corp.",
+    "symbol": "ATNY",
+    "price": "2.205",
+    "change": "+0.285",
+    "percentage": "+14.84%",
+    "lastTrade": "Sep 15 3:59 PM EDT",
+    "volume": "21,956"
+}, {
+    "company": "Empire Resorts Inc.",
+    "symbol": "NYNY",
+    "price": "5.43",
+    "change": "+0.69",
+    "percentage": "+14.56%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "182,558"
+}, {
+    "company": "ERBA Diagnostics, Inc.",
+    "symbol": "ERB",
+    "price": "2.07",
+    "change": "+0.26",
+    "percentage": "+14.37%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "17,750"
+}, {
+    "company": "Weight Watchers International, Inc.",
+    "symbol": "WTW",
+    "price": "6.54",
+    "change": "+0.80",
+    "percentage": "+13.94%",
+    "lastTrade": "Sep 15 4:02 PM EDT",
+    "volume": "4,121,583"
+}, {
+    "company": "ESSA Pharma Inc.",
+    "symbol": "EPIX",
+    "price": "6.55",
+    "change": "+0.80",
+    "percentage": "+13.91%",
+    "lastTrade": "Sep 15 2:09 PM EDT",
+    "volume": "4,481"
+}, {
+    "company": "LiveDeal, Inc.",
+    "symbol": "LIVE",
+    "price": "1.72",
+    "change": "+0.21",
+    "percentage": "+13.91%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "553,244"
+}, {
+    "company": "AxoGen, Inc.",
+    "symbol": "AXGN",
+    "price": "5.60",
+    "change": "+0.68",
+    "percentage": "+13.82%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "1,162,412"
+}, {
+    "company": "Gray Television, Inc.",
+    "symbol": "GTN",
+    "price": "13.30",
+    "change": "+1.56",
+    "percentage": "+13.29%",
+    "lastTrade": "Sep 15 4:03 PM EDT",
+    "volume": "4,086,213"
+}, {
+    "company": "Forward Industries Inc.",
+    "symbol": "FORD",
+    "price": "1.73",
+    "change": "+0.20",
+    "percentage": "+13.07%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "2,859,876"
+}, {
+    "company": "Iao Kun Group Holding Company Limited",
+    "symbol": "IKGH",
+    "price": "1.81",
+    "change": "+0.20",
+    "percentage": "+12.42%",
+    "lastTrade": "Sep 15 3:57 PM EDT",
+    "volume": "226,013"
+}, {
+    "company": "Merus Labs International Inc.",
+    "symbol": "MSLI",
+    "price": "1.72",
+    "change": "+0.19",
+    "percentage": "+12.42%",
+    "lastTrade": "Sep 15 3:40 PM EDT",
+    "volume": "20,600"
+}, {
+    "company": "Inotek Pharmaceuticals Corporation",
+    "symbol": "ITEK",
+    "price": "14.57",
+    "change": "+1.57",
+    "percentage": "+12.08%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "792,306"
+}, {
+    "company": "Arcadia Biosciences, Inc.",
+    "symbol": "RKDA",
+    "price": "5.62",
+    "change": "+0.60",
+    "percentage": "+11.95%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "21,881"
+}, {
+    "company": "iPath Bloomberg Tin SubTR ETN",
+    "symbol": "JJT",
+    "price": "33.732",
+    "change": "+3.582",
+    "percentage": "+11.88%",
+    "lastTrade": "Sep 15 2:29 PM EDT",
+    "volume": "100"
+}, {
+    "company": "Nobilis Health Corp.",
+    "symbol": "HLTH",
+    "price": "5.13",
+    "change": "+0.54",
+    "percentage": "+11.76%",
+    "lastTrade": "Sep 15 4:01 PM EDT",
+    "volume": "280,988"
+}, {
+    "company": "Points International Ltd.",
+    "symbol": "PCOM",
+    "price": "11.78",
+    "change": "+1.22",
+    "percentage": "+11.55%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "171,379"
+}, {
+    "company": "CTC Media, Inc",
+    "symbol": "CTCM",
+    "price": "1.86",
+    "change": "+0.19",
+    "percentage": "+11.38%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "938,531"
+}, {
+    "company": "Gravity Co., Ltd",
+    "symbol": "GRVY",
+    "price": "3.9799",
+    "change": "+0.3999",
+    "percentage": "+11.17%",
+    "lastTrade": "Sep 15 1:25 PM EDT",
+    "volume": "2,252"
+}, {
+    "company": "Marlin Business Services Corp.",
+    "symbol": "MRLN",
+    "price": "15.57",
+    "change": "+1.53",
+    "percentage": "+10.90%",
+    "lastTrade": "Sep 15 3:59 PM EDT",
+    "volume": "165,895"
+}, {
+    "company": "Mannatech, Incorporated",
+    "symbol": "MTEX",
+    "price": "19.26",
+    "change": "+1.87",
+    "percentage": "+10.75%",
+    "lastTrade": "Sep 15 3:50 PM EDT",
+    "volume": "21,780"
+}, {
+    "company": "Citizens Inc.",
+    "symbol": "CIA",
+    "price": "7.15",
+    "change": "+0.66",
+    "percentage": "+10.17%",
+    "lastTrade": "Sep 15 4:02 PM EDT",
+    "volume": "179,985"
+}, {
+    "company": "ProShares Short VIX Short-Term Futures",
+    "symbol": "SVXY",
+    "price": "54.27",
+    "change": "+5.00",
+    "percentage": "+10.15%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "6,916,982"
+}, {
+    "company": "Pacific Booker Minerals Inc.",
+    "symbol": "PBM",
+    "price": "1.7726",
+    "change": "+0.1626",
+    "percentage": "+10.10%",
+    "lastTrade": "Sep 15 2:28 PM EDT",
+    "volume": "1,224"
+}, {
+    "company": "Oppenheimer Holdings Inc.",
+    "symbol": "OPY",
+    "price": "21.50",
+    "change": "+1.97",
+    "percentage": "+10.09%",
+    "lastTrade": "Sep 15 4:02 PM EDT",
+    "volume": "203,295"
+}, {
+    "company": "LightInTheBox Holding Co., Ltd.",
+    "symbol": "LITB",
+    "price": "3.29",
+    "change": "+0.30",
+    "percentage": "+10.03%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "169,949"
+}, {
+    "company": "hhgregg, Inc.",
+    "symbol": "HGG",
+    "price": "6.43",
+    "change": "+0.58",
+    "percentage": "+9.91%",
+    "lastTrade": "Sep 15 4:02 PM EDT",
+    "volume": "269,077"
+}, {
+    "company": "VelocityShares Daily Inverse VIX ST ETN",
+    "symbol": "XIV",
+    "price": "27.75",
+    "change": "+2.50",
+    "percentage": "+9.90%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "23,703,566"
+}, {
+    "company": "NetSol Technologies, Inc.",
+    "symbol": "NTWK",
+    "price": "5.70",
+    "change": "+0.51",
+    "percentage": "+9.83%",
+    "lastTrade": "Sep 15 3:59 PM EDT",
+    "volume": "418,981"
+}, {
+    "company": "LendingTree, Inc.",
+    "symbol": "TREE",
+    "price": "115.83",
+    "change": "+10.34",
+    "percentage": "+9.80%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "261,390"
+}, {
+    "company": "Beasley Broadcast Group Inc.",
+    "symbol": "BBGI",
+    "price": "4.17",
+    "change": "+0.37",
+    "percentage": "+9.74%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "555"
+}, {
+    "company": "Tetraphase Pharmaceuticals, Inc.",
+    "symbol": "TTPH",
+    "price": "10.42",
+    "change": "+0.92",
+    "percentage": "+9.68%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "7,193,972"
+}, {
+    "company": "Advaxis, Inc.",
+    "symbol": "ADXSW",
+    "price": "14.93",
+    "change": "+1.31",
+    "percentage": "+9.62%",
+    "lastTrade": "Sep 15 3:58 PM EDT",
+    "volume": "33,181"
+}, {
+    "company": "FX Energy Inc.",
+    "symbol": "FXENP",
+    "price": "14.42",
+    "change": "+1.26",
+    "percentage": "+9.57%",
+    "lastTrade": "Sep 15 2:58 PM EDT",
+    "volume": "660"
+}, {
+    "company": "ProQR Therapeutics N.V.",
+    "symbol": "PRQR",
+    "price": "17.37",
+    "change": "+1.51",
+    "percentage": "+9.52%",
+    "lastTrade": "Sep 15 3:59 PM EDT",
+    "volume": "101,482"
+}, {
+    "company": "Crossroads Systems, Inc.",
+    "symbol": "CRDS",
+    "price": "1.39",
+    "change": "+0.12",
+    "percentage": "+9.45%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "127,435"
+}, {
+    "company": "SeaDrill Limited",
+    "symbol": "SDRL",
+    "price": "7.07",
+    "change": "+0.61",
+    "percentage": "+9.44%",
+    "lastTrade": "Sep 15 4:02 PM EDT",
+    "volume": "14,655,957"
+}, {
+    "company": "USMD Holdings, Inc.",
+    "symbol": "USMD",
+    "price": "8.45",
+    "change": "+0.72",
+    "percentage": "+9.31%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "3,540"
+}, {
+    "company": "Eclipse Resources Corporation",
+    "symbol": "ECR",
+    "price": "3.30",
+    "change": "+0.28",
+    "percentage": "+9.27%",
+    "lastTrade": "Sep 15 4:06 PM EDT",
+    "volume": "755,621"
+}, {
+    "company": "Synutra International Inc.",
+    "symbol": "SYUT",
+    "price": "5.32",
+    "change": "+0.45",
+    "percentage": "+9.24%",
+    "lastTrade": "Sep 15 4:00 PM EDT",
+    "volume": "189,297"
+}, {
+    "company": "Natural Health Trends Corp.",
+    "symbol": "NHTC",
+    "price": "28.27",
+    "change": "+2.39",
+    "percentage": "+9.23%",
+    "lastTrade": "Sep 15 3:59 PM EDT",
+    "volume": "198,013"
+}]
