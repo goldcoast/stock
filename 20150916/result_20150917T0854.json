@@ -1,0 +1,28 @@
+{
+    "ganier": [{
+        "company": "Ascena Retail Group Inc.",
+        "symbol": "ASNA",
+        "price": "13.38",
+        "change": "+1.41",
+        "percentage": "+11.78%",
+        "lastTrade": "Sep 16 4:00 PM EDT",
+        "volume": "13,303,448"
+    }],
+    "loser": [{
+        "company": "SuperCom Ltd.",
+        "symbol": "SPCB",
+        "price": "8.31",
+        "change": "-0.73",
+        "percentage": "-8.08%",
+        "lastTrade": "Sep 16 4:00 PM EDT",
+        "volume": "908,326"
+    }, {
+        "company": "LightInTheBox Holding Co., Ltd.",
+        "symbol": "LITB",
+        "price": "3.02",
+        "change": "-0.27",
+        "percentage": "-8.21%",
+        "lastTrade": "Sep 16 4:00 PM EDT",
+        "volume": "232,377"
+    }]
+}

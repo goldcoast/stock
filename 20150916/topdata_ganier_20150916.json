@@ -1,0 +1,401 @@
+[{
+    "company": "Intra-Cellular Therapies, Inc.",
+    "symbol": "ITCI",
+    "price": "48.79",
+    "change": "+22.68",
+    "percentage": "+86.86%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "13,802,716"
+}, {
+    "company": "Adept Technology Inc.",
+    "symbol": "ADEP",
+    "price": "12.93",
+    "change": "+4.96",
+    "percentage": "+62.13%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "9,946,081"
+}, {
+    "company": "USMD Holdings, Inc.",
+    "symbol": "USMD",
+    "price": "10.51",
+    "change": "+2.06",
+    "percentage": "+24.38%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "1,337"
+}, {
+    "company": "Direxion Daily Nat Gas Rltd Bull 3X ETF",
+    "symbol": "GASL",
+    "price": "6.12",
+    "change": "+1.09",
+    "percentage": "+21.67%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "2,115,527"
+}, {
+    "company": "Molson Coors Brewing Company",
+    "symbol": "TAP-A",
+    "price": "82.37",
+    "change": "+14.26",
+    "percentage": "+20.94%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "1,208"
+}, {
+    "company": "Yuma Energy, Inc. 9.25% Series ",
+    "symbol": "YUMA-PA",
+    "price": "8.2499",
+    "change": "+1.2699",
+    "percentage": "+18.19%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "3,274"
+}, {
+    "company": "Superior Drilling Products, Inc.",
+    "symbol": "SDPI",
+    "price": "1.70",
+    "change": "+0.26",
+    "percentage": "+18.06%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "50,184"
+}, {
+    "company": "Direxion Daily Jr Gld Mnrs Bull 3X ETF",
+    "symbol": "JNUG",
+    "price": "8.75",
+    "change": "+1.28",
+    "percentage": "+17.14%",
+    "lastTrade": "Sep 16 4:21 PM EDT",
+    "volume": "9,729,751"
+}, {
+    "company": "EP Energy Corporation",
+    "symbol": "EPE",
+    "price": "6.24",
+    "change": "+0.90",
+    "percentage": "+16.85%",
+    "lastTrade": "Sep 16 4:02 PM EDT",
+    "volume": "3,880,574"
+}, {
+    "company": "Collegium Pharmaceutical, Inc.",
+    "symbol": "COLL",
+    "price": "22.12",
+    "change": "+3.09",
+    "percentage": "+16.24%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "872,391"
+}, {
+    "company": "Direxion Daily Gold Miners Bull 3X ETF",
+    "symbol": "NUGT",
+    "price": "3.09",
+    "change": "+0.43",
+    "percentage": "+16.17%",
+    "lastTrade": "Sep 16 4:23 PM EDT",
+    "volume": "62,922,718"
+}, {
+    "company": "Pacific Drilling S.A.",
+    "symbol": "PACD",
+    "price": "1.80",
+    "change": "+0.25",
+    "percentage": "+16.13%",
+    "lastTrade": "Sep 16 4:02 PM EDT",
+    "volume": "1,332,722"
+}, {
+    "company": "MaxLinear, Inc.",
+    "symbol": "MXL",
+    "price": "12.01",
+    "change": "+1.66",
+    "percentage": "+16.04%",
+    "lastTrade": "Sep 16 4:02 PM EDT",
+    "volume": "1,939,760"
+}, {
+    "company": "VelocityShares 3x Long Crude Oil ETN",
+    "symbol": "UWTI",
+    "price": "12.43",
+    "change": "+1.70",
+    "percentage": "+15.84%",
+    "lastTrade": "Sep 16 4:26 PM EDT",
+    "volume": "21,201,477"
+}, {
+    "company": "Bonanza Creek Energy, Inc.",
+    "symbol": "BCEI",
+    "price": "6.98",
+    "change": "+0.95",
+    "percentage": "+15.75%",
+    "lastTrade": "Sep 16 4:03 PM EDT",
+    "volume": "3,547,220"
+}, {
+    "company": "Xencor, Inc.",
+    "symbol": "XNCR",
+    "price": "18.34",
+    "change": "+2.39",
+    "percentage": "+14.98%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "1,134,834"
+}, {
+    "company": "Synalloy Corporation",
+    "symbol": "SYNL",
+    "price": "9.41",
+    "change": "+1.22",
+    "percentage": "+14.90%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "90,842"
+}, {
+    "company": "Approach Resources, Inc.",
+    "symbol": "AREX",
+    "price": "2.79",
+    "change": "+0.36",
+    "percentage": "+14.81%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "1,715,228"
+}, {
+    "company": "Direxion Dly S&P Oil&Gs Ex&Prd Bl 3X ETF",
+    "symbol": "GUSH",
+    "price": "14.10",
+    "change": "+1.79",
+    "percentage": "+14.54%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "106,108"
+}, {
+    "company": "Energy Focus, Inc.",
+    "symbol": "EFOI",
+    "price": "15.94",
+    "change": "+2.00",
+    "percentage": "+14.35%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "3,158,276"
+}, {
+    "company": "Molson Coors Brewing Company",
+    "symbol": "TAP",
+    "price": "82.98",
+    "change": "+10.34",
+    "percentage": "+14.23%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "20,381,687"
+}, {
+    "company": "Chesapeake Energy Corporation",
+    "symbol": "CHK",
+    "price": "9.00",
+    "change": "+1.11",
+    "percentage": "+14.07%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "20,371,917"
+}, {
+    "company": "Bill Barrett Corp.",
+    "symbol": "BBG",
+    "price": "4.16",
+    "change": "+0.51",
+    "percentage": "+13.97%",
+    "lastTrade": "Sep 16 4:02 PM EDT",
+    "volume": "2,968,113"
+}, {
+    "company": "QEP Resources, Inc.",
+    "symbol": "QEP",
+    "price": "13.84",
+    "change": "+1.69",
+    "percentage": "+13.91%",
+    "lastTrade": "Sep 16 4:02 PM EDT",
+    "volume": "5,163,461"
+}, {
+    "company": "Laredo Petroleum, Inc.",
+    "symbol": "LPI",
+    "price": "11.39",
+    "change": "+1.34",
+    "percentage": "+13.33%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "3,713,265"
+}, {
+    "company": "Rex Energy Corporation",
+    "symbol": "REXX",
+    "price": "2.64",
+    "change": "+0.31",
+    "percentage": "+13.30%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "2,679,645"
+}, {
+    "company": "Willbros Group Inc.",
+    "symbol": "WG",
+    "price": "1.47",
+    "change": "+0.17",
+    "percentage": "+13.08%",
+    "lastTrade": "Sep 16 4:06 PM EDT",
+    "volume": "276,762"
+}, {
+    "company": "C&J Energy Services, Ltd.",
+    "symbol": "CJES",
+    "price": "4.64",
+    "change": "+0.53",
+    "percentage": "+12.90%",
+    "lastTrade": "Sep 16 4:03 PM EDT",
+    "volume": "5,959,999"
+}, {
+    "company": "Matador Resources Company",
+    "symbol": "MTDR",
+    "price": "22.94",
+    "change": "+2.54",
+    "percentage": "+12.45%",
+    "lastTrade": "Sep 16 4:04 PM EDT",
+    "volume": "3,355,080"
+}, {
+    "company": "Direxion Dly CSI 300 Chn A Shr Br 2X ETF",
+    "symbol": "CHAU",
+    "price": "18.74",
+    "change": "+2.06",
+    "percentage": "+12.35%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "770,097"
+}, {
+    "company": "Vestin Realty Mortgage II, Inc.",
+    "symbol": "VRTB",
+    "price": "3.73",
+    "change": "+0.41",
+    "percentage": "+12.35%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "1,265"
+}, {
+    "company": "Fitbit Inc.",
+    "symbol": "FIT",
+    "price": "37.10",
+    "change": "+4.06",
+    "percentage": "+12.29%",
+    "lastTrade": "Sep 16 4:01 PM EDT",
+    "volume": "10,125,430"
+}, {
+    "company": "Denbury Resources Inc.",
+    "symbol": "DNR",
+    "price": "3.31",
+    "change": "+0.36",
+    "percentage": "+12.20%",
+    "lastTrade": "Sep 16 4:02 PM EDT",
+    "volume": "16,269,608"
+}, {
+    "company": "Condor Hospitality Trust Inc.",
+    "symbol": "CDOR",
+    "price": "1.39",
+    "change": "+0.15",
+    "percentage": "+12.10%",
+    "lastTrade": "Sep 16 3:32 PM EDT",
+    "volume": "27,659"
+}, {
+    "company": "Stone Energy Corp.",
+    "symbol": "SGY",
+    "price": "6.32",
+    "change": "+0.67",
+    "percentage": "+11.86%",
+    "lastTrade": "Sep 16 4:01 PM EDT",
+    "volume": "2,755,843"
+}, {
+    "company": "Ascena Retail Group Inc.",
+    "symbol": "ASNA",
+    "price": "13.38",
+    "change": "+1.41",
+    "percentage": "+11.78%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "13,303,448"
+}, {
+    "company": "Direxion Daily South Korea Bull 3X ETF",
+    "symbol": "KORU",
+    "price": "23.289",
+    "change": "+2.429",
+    "percentage": "+11.65%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "12,638"
+}, {
+    "company": "Air Methods Corp.",
+    "symbol": "AIRM",
+    "price": "39.97",
+    "change": "+4.16",
+    "percentage": "+11.62%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "1,153,774"
+}, {
+    "company": "Clean Energy Fuels Corp.",
+    "symbol": "CLNE",
+    "price": "4.84",
+    "change": "+0.50",
+    "percentage": "+11.52%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "1,754,561"
+}, {
+    "company": "ProShares Ultra Gold Miners",
+    "symbol": "GDXX",
+    "price": "7.61",
+    "change": "+0.78",
+    "percentage": "+11.42%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "17,816"
+}, {
+    "company": "Zhone Technologies Inc.",
+    "symbol": "ZHNE",
+    "price": "1.62",
+    "change": "+0.17",
+    "percentage": "+11.40%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "242,562"
+}, {
+    "company": "Gran Tierra Energy, Inc.",
+    "symbol": "GTE",
+    "price": "2.36",
+    "change": "+0.24",
+    "percentage": "+11.32%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "826,798"
+}, {
+    "company": "EV Energy Partners LP",
+    "symbol": "EVEP",
+    "price": "7.80",
+    "change": "+0.79",
+    "percentage": "+11.27%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "315,911"
+}, {
+    "company": "Celgene Corporation",
+    "symbol": "CELGZ",
+    "price": "2.00",
+    "change": "+0.20",
+    "percentage": "+11.11%",
+    "lastTrade": "Sep 16 3:46 PM EDT",
+    "volume": "11,300"
+}, {
+    "company": "Bellatrix Exploration Ltd.",
+    "symbol": "BXE",
+    "price": "1.61",
+    "change": "+0.16",
+    "percentage": "+11.03%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "486,894"
+}, {
+    "company": "Iconix Brand Group, Inc.",
+    "symbol": "ICON",
+    "price": "14.96",
+    "change": "+1.48",
+    "percentage": "+10.98%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "2,139,588"
+}, {
+    "company": "ProShares Ultra Bloomberg Crude Oil",
+    "symbol": "UCO",
+    "price": "25.02",
+    "change": "+2.45",
+    "percentage": "+10.86%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "11,744,483"
+}, {
+    "company": "WPX Energy, Inc.",
+    "symbol": "WPX",
+    "price": "8.17",
+    "change": "+0.80",
+    "percentage": "+10.85%",
+    "lastTrade": "Sep 16 4:02 PM EDT",
+    "volume": "11,902,256"
+}, {
+    "company": "Eldorado Gold Corporation",
+    "symbol": "EGO",
+    "price": "2.89",
+    "change": "+0.28",
+    "percentage": "+10.73%",
+    "lastTrade": "Sep 16 4:01 PM EDT",
+    "volume": "3,987,088"
+}, {
+    "company": "Vestin Realty Mortgage I, Inc",
+    "symbol": "VRTA",
+    "price": "5.50",
+    "change": "+0.53",
+    "percentage": "+10.66%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "3,067"
+}]

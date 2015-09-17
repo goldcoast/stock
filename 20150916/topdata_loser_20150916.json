@@ -1,0 +1,401 @@
+[{
+    "company": "Accushares Commodities Trust I - AccuShares Spot CBOE VIX Fund Down Class Shares",
+    "symbol": "VXDN",
+    "price": "0.8265",
+    "change": "-0.2435",
+    "percentage": "-22.76%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "125,569"
+}, {
+    "company": "Direxion Daily Gold Miners Bear 3X ETF",
+    "symbol": "DUST",
+    "price": "25.95",
+    "change": "-5.41",
+    "percentage": "-17.25%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "5,506,324"
+}, {
+    "company": "Mexco Energy Corporation",
+    "symbol": "MXC",
+    "price": "2.07",
+    "change": "-0.43",
+    "percentage": "-17.20%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "7,302"
+}, {
+    "company": "Direxion Daily Jr Gld Mnrs Bear 3X ETF",
+    "symbol": "JDST",
+    "price": "9.03",
+    "change": "-1.85",
+    "percentage": "-17.00%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "6,358,217"
+}, {
+    "company": "VelocityShares 3x Inverse Crude Oil ETN",
+    "symbol": "DWTI",
+    "price": "97.27",
+    "change": "-19.00",
+    "percentage": "-16.34%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "2,674,996"
+}, {
+    "company": "Direxion Dly S&P Oil&Gs Ex&Prd Br 3X ETF",
+    "symbol": "DRIP",
+    "price": "69.02",
+    "change": "-11.98",
+    "percentage": "-14.79%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "18,782"
+}, {
+    "company": "ABEOW",
+    "symbol": "ABEOW",
+    "price": "1.86",
+    "change": "-0.31",
+    "percentage": "-14.26%",
+    "lastTrade": "Sep 16 1:08 PM EDT",
+    "volume": "6,384"
+}, {
+    "company": "ProShares Ultra VIX Short-Term Futures",
+    "symbol": "UVXY",
+    "price": "42.98",
+    "change": "-5.96",
+    "percentage": "-12.18%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "16,880,969"
+}, {
+    "company": "VelocityShares Daily 2x VIX ST ETN",
+    "symbol": "TVIX",
+    "price": "9.38",
+    "change": "-1.28",
+    "percentage": "-12.01%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "18,501,639"
+}, {
+    "company": "ProShares UltraShort Gold Miners",
+    "symbol": "GDXS",
+    "price": "33.90",
+    "change": "-4.37",
+    "percentage": "-11.42%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "11,475"
+}, {
+    "company": "Rambus Inc.",
+    "symbol": "RMBS",
+    "price": "11.705",
+    "change": "-1.485",
+    "percentage": "-11.26%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "3,239,213"
+}, {
+    "company": "Real Goods Solar, Inc.",
+    "symbol": "RGSE",
+    "price": "1.36",
+    "change": "-0.17",
+    "percentage": "-11.11%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "961,240"
+}, {
+    "company": "VelocityShares 3x Inverse Silver ETN",
+    "symbol": "DSLV",
+    "price": "64.21",
+    "change": "-7.88",
+    "percentage": "-10.93%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "55,891"
+}, {
+    "company": "ProShares UltraShort Bloomberg Crude Oil",
+    "symbol": "SCO",
+    "price": "80.57",
+    "change": "-9.73",
+    "percentage": "-10.78%",
+    "lastTrade": "Sep 16 4:28 PM EDT",
+    "volume": "1,822,890"
+}, {
+    "company": "Radio One Inc.",
+    "symbol": "ROIA",
+    "price": "2.50",
+    "change": "-0.30",
+    "percentage": "-10.71%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "1,975"
+}, {
+    "company": "ProShares UltraShrt Oil&Gas Explor&Prdtn",
+    "symbol": "SOP",
+    "price": "29.79",
+    "change": "-3.53",
+    "percentage": "-10.59%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "2,216"
+}, {
+    "company": "Evoke Pharma, Inc.",
+    "symbol": "EVOK",
+    "price": "3.27",
+    "change": "-0.38",
+    "percentage": "-10.41%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "336,870"
+}, {
+    "company": "UBS ETRACS 2xMonthly Lvg S&P MLP Idx ETN",
+    "symbol": "MLPV",
+    "price": "16.83",
+    "change": "-1.92",
+    "percentage": "-10.24%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "300"
+}, {
+    "company": "Idera Pharmaceuticals, Inc.",
+    "symbol": "IDRA",
+    "price": "3.22",
+    "change": "-0.35",
+    "percentage": "-9.80%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "1,862,144"
+}, {
+    "company": "Straight Path Communications Inc.",
+    "symbol": "STRP",
+    "price": "34.87",
+    "change": "-3.63",
+    "percentage": "-9.43%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "241,028"
+}, {
+    "company": "QuickLogic Corporation",
+    "symbol": "QUIK",
+    "price": "1.68",
+    "change": "-0.17",
+    "percentage": "-9.19%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "388,504"
+}, {
+    "company": "Clearsign Combustion Corp.",
+    "symbol": "CLIR",
+    "price": "5.94",
+    "change": "-0.59",
+    "percentage": "-9.04%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "232,233"
+}, {
+    "company": "Quotient Limited",
+    "symbol": "QTNTW",
+    "price": "4.55",
+    "change": "-0.45",
+    "percentage": "-9.00%",
+    "lastTrade": "Sep 16 3:25 PM EDT",
+    "volume": "800"
+}, {
+    "company": "EASTMAN KODAK CO. WARRANTS EXP",
+    "symbol": "KODK-WT",
+    "price": "3.4498",
+    "change": "-0.3402",
+    "percentage": "-8.98%",
+    "lastTrade": "Sep 16 11:37 AM EDT",
+    "volume": "672"
+}, {
+    "company": "Direxion Daily FTSE China Bear 3X ETF",
+    "symbol": "YANG",
+    "price": "97.59",
+    "change": "-9.55",
+    "percentage": "-8.91%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "226,380"
+}, {
+    "company": "Cardiovascular Systems Inc.",
+    "symbol": "CSII",
+    "price": "21.66",
+    "change": "-2.11",
+    "percentage": "-8.88%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "577,196"
+}, {
+    "company": "Direxion Daily Russia Bear 3X ETF",
+    "symbol": "RUSS",
+    "price": "35.06",
+    "change": "-3.34",
+    "percentage": "-8.70%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "388,701"
+}, {
+    "company": "Sigma Designs, Inc.",
+    "symbol": "SIGM",
+    "price": "7.54",
+    "change": "-0.71",
+    "percentage": "-8.61%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "1,315,073"
+}, {
+    "company": "Ever-Glory International Group, Inc.",
+    "symbol": "EVK",
+    "price": "3.43",
+    "change": "-0.32",
+    "percentage": "-8.53%",
+    "lastTrade": "Sep 16 3:48 PM EDT",
+    "volume": "28,479"
+}, {
+    "company": "ProShares UltraShort MSCI Mexico Cpd IMI",
+    "symbol": "SMK",
+    "price": "26.00",
+    "change": "-2.41",
+    "percentage": "-8.50%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "856"
+}, {
+    "company": "Direxion Daily Energy Bear 3X ETF",
+    "symbol": "ERY",
+    "price": "28.17",
+    "change": "-2.61",
+    "percentage": "-8.48%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "1,639,174"
+}, {
+    "company": "KaloBios Pharmaceuticals, Inc.",
+    "symbol": "KBIO",
+    "price": "3.39",
+    "change": "-0.31",
+    "percentage": "-8.38%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "298,299"
+}, {
+    "company": "DB Crude Oil Double Short ETN",
+    "symbol": "DTO",
+    "price": "95.27",
+    "change": "-8.53",
+    "percentage": "-8.22%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "148,166"
+}, {
+    "company": "LightInTheBox Holding Co., Ltd.",
+    "symbol": "LITB",
+    "price": "3.02",
+    "change": "-0.27",
+    "percentage": "-8.21%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "232,377"
+}, {
+    "company": "Majesco Entertainment Co.",
+    "symbol": "COOL",
+    "price": "1.35",
+    "change": "-0.12",
+    "percentage": "-8.16%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "119,179"
+}, {
+    "company": "SuperCom Ltd.",
+    "symbol": "SPCB",
+    "price": "8.31",
+    "change": "-0.73",
+    "percentage": "-8.08%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "908,326"
+}, {
+    "company": "Xenoport, Inc.",
+    "symbol": "XNPT",
+    "price": "4.45",
+    "change": "-0.39",
+    "percentage": "-8.06%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "3,314,831"
+}, {
+    "company": "Yulong Eco-Materials Limited",
+    "symbol": "YECO",
+    "price": "4.43",
+    "change": "-0.38",
+    "percentage": "-7.90%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "4,913"
+}, {
+    "company": "Foundation Medicine, Inc.",
+    "symbol": "FMI",
+    "price": "22.28",
+    "change": "-1.91",
+    "percentage": "-7.90%",
+    "lastTrade": "Sep 16 3:59 PM EDT",
+    "volume": "822,880"
+}, {
+    "company": "Forward Industries Inc.",
+    "symbol": "FORD",
+    "price": "1.60",
+    "change": "-0.13",
+    "percentage": "-7.51%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "2,558,880"
+}, {
+    "company": "Acceleron Pharma, Inc.",
+    "symbol": "XLRN",
+    "price": "32.48",
+    "change": "-2.62",
+    "percentage": "-7.46%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "301,163"
+}, {
+    "company": "Direxion Daily Emrg Mkts Bear 3X ETF",
+    "symbol": "EDZ",
+    "price": "43.48",
+    "change": "-3.43",
+    "percentage": "-7.31%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "1,401,576"
+}, {
+    "company": "Technical Communications Corporation",
+    "symbol": "TCCO",
+    "price": "2.67",
+    "change": "-0.21",
+    "percentage": "-7.29%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "233"
+}, {
+    "company": "Sypris Solutions Inc.",
+    "symbol": "SYPR",
+    "price": "1.11",
+    "change": "-0.09",
+    "percentage": "-7.11%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "31,839"
+}, {
+    "company": "PTC Therapeutics, Inc.",
+    "symbol": "PTCT",
+    "price": "34.52",
+    "change": "-2.62",
+    "percentage": "-7.05%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "1,046,592"
+}, {
+    "company": "Mirati Therapeutics, Inc.",
+    "symbol": "MRTX",
+    "price": "44.34",
+    "change": "-3.36",
+    "percentage": "-7.04%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "2,200,080"
+}, {
+    "company": "China Natural Resources Inc.",
+    "symbol": "CHNR",
+    "price": "1.4785",
+    "change": "-0.1115",
+    "percentage": "-7.01%",
+    "lastTrade": "Sep 16 11:37 AM EDT",
+    "volume": "515"
+}, {
+    "company": "Skyline Medical Inc.",
+    "symbol": "SKLN",
+    "price": "3.53",
+    "change": "-0.26",
+    "percentage": "-6.86%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "27,519"
+}, {
+    "company": "ProShares UltraShort Silver",
+    "symbol": "ZSL",
+    "price": "116.22",
+    "change": "-8.42",
+    "percentage": "-6.76%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "44,204"
+}, {
+    "company": "ProShares UltraShort MSCI Brazil Capped",
+    "symbol": "BZQ",
+    "price": "139.28",
+    "change": "-9.94",
+    "percentage": "-6.66%",
+    "lastTrade": "Sep 16 4:00 PM EDT",
+    "volume": "40,908"
+}]
