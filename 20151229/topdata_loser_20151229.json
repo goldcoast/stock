@@ -1,0 +1,401 @@
+[{
+    "company": "Chimerix, Inc.",
+    "symbol": "CMRX",
+    "price": "6.62",
+    "change": "-28.95",
+    "percentage": "-81.39%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "26,705,567"
+}, {
+    "company": "EASTMAN KODAK CO. WARRANTS EXP",
+    "symbol": "KODK-WT",
+    "price": "2.04",
+    "change": "-0.93",
+    "percentage": "-31.31%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "630"
+}, {
+    "company": "VelocityShares 3x Inv Natural Gas ETN",
+    "symbol": "DGAZ",
+    "price": "14.57",
+    "change": "-5.43",
+    "percentage": "-27.15%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "10,823,489"
+}, {
+    "company": "Iconix Brand Group, Inc.",
+    "symbol": "ICON",
+    "price": "5.67",
+    "change": "-1.78",
+    "percentage": "-23.89%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "12,792,333"
+}, {
+    "company": "ITUS Corporation",
+    "symbol": "ITUS",
+    "price": "3.04",
+    "change": "-0.85",
+    "percentage": "-21.85%",
+    "lastTrade": "Dec 28 3:42 PM EST",
+    "volume": "17,438"
+}, {
+    "company": "Memorial Production Partners LP",
+    "symbol": "MEMP",
+    "price": "2.53",
+    "change": "-0.55",
+    "percentage": "-17.86%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "3,132,116"
+}, {
+    "company": "Cathay General Bancorp",
+    "symbol": "CATYW",
+    "price": "10.87",
+    "change": "-2.16",
+    "percentage": "-16.58%",
+    "lastTrade": "Dec 28 12:15 PM EST",
+    "volume": "200"
+}, {
+    "company": "ProShares UltraShort Bloomberg Natrl Gas",
+    "symbol": "KOLD",
+    "price": "150.68",
+    "change": "-29.14",
+    "percentage": "-16.21%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "28,913"
+}, {
+    "company": "Industrial Services of America, Inc.",
+    "symbol": "IDSA",
+    "price": "1.42",
+    "change": "-0.26",
+    "percentage": "-15.48%",
+    "lastTrade": "Dec 28 3:46 PM EST",
+    "volume": "17,610"
+}, {
+    "company": "Oragenics Inc.",
+    "symbol": "OGEN",
+    "price": "1.55",
+    "change": "-0.28",
+    "percentage": "-15.30%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "66,344"
+}, {
+    "company": "Rubicon Technology, Inc.",
+    "symbol": "RBCN",
+    "price": "1.11",
+    "change": "-0.19",
+    "percentage": "-14.94%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "117,490"
+}, {
+    "company": "Gold Resource Corp",
+    "symbol": "GORO",
+    "price": "1.91",
+    "change": "-0.33",
+    "percentage": "-14.73%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "1,039,367"
+}, {
+    "company": "Peabody Energy Corporation",
+    "symbol": "BTU",
+    "price": "8.24",
+    "change": "-1.40",
+    "percentage": "-14.52%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "1,135,070"
+}, {
+    "company": "Vanguard Natural Resources, LLC",
+    "symbol": "VNRAP",
+    "price": "9.27",
+    "change": "-1.57",
+    "percentage": "-14.48%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "38,262"
+}, {
+    "company": "Patriot National, Inc.",
+    "symbol": "PN",
+    "price": "7.02",
+    "change": "-1.17",
+    "percentage": "-14.29%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "1,339,992"
+}, {
+    "company": "Mid-Con Energy Partners, LP",
+    "symbol": "MCEP",
+    "price": "1.20",
+    "change": "-0.20",
+    "percentage": "-14.29%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "576,075"
+}, {
+    "company": "Natural Resource Partners LP",
+    "symbol": "NRP",
+    "price": "1.15",
+    "change": "-0.19",
+    "percentage": "-14.18%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "583,523"
+}, {
+    "company": "Vanguard Natural Resources, LLC",
+    "symbol": "VNR",
+    "price": "3.03",
+    "change": "-0.48",
+    "percentage": "-13.68%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "1,873,518"
+}, {
+    "company": "Pulmatrix, Inc.",
+    "symbol": "PULM",
+    "price": "3.93",
+    "change": "-0.61",
+    "percentage": "-13.46%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "23,819"
+}, {
+    "company": "Marathon Patent Group, Inc.",
+    "symbol": "MARA",
+    "price": "1.43",
+    "change": "-0.22",
+    "percentage": "-13.20%",
+    "lastTrade": "Dec 28 3:58 PM EST",
+    "volume": "77,822"
+}, {
+    "company": "Natural Health Trends Corp.",
+    "symbol": "NHTC",
+    "price": "39.84",
+    "change": "-6.05",
+    "percentage": "-13.18%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "710,192"
+}, {
+    "company": "Vanguard Natural Resources, LLC",
+    "symbol": "VNRCP",
+    "price": "9.21",
+    "change": "-1.39",
+    "percentage": "-13.11%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "63,683"
+}, {
+    "company": "MV Oil Trust",
+    "symbol": "MVO",
+    "price": "5.05",
+    "change": "-0.73",
+    "percentage": "-12.63%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "153,428"
+}, {
+    "company": "Whiting Petroleum Corp.",
+    "symbol": "WLL",
+    "price": "8.81",
+    "change": "-1.27",
+    "percentage": "-12.60%",
+    "lastTrade": "Dec 28 4:01 PM EST",
+    "volume": "15,282,695"
+}, {
+    "company": "Chesapeake Energy Corporation C",
+    "symbol": "CHK-PD",
+    "price": "16.63",
+    "change": "-2.37",
+    "percentage": "-12.47%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "25,556"
+}, {
+    "company": "Direxion Daily Nat Gas Rltd Bull 3X ETF",
+    "symbol": "GASL",
+    "price": "5.96",
+    "change": "-0.84",
+    "percentage": "-12.35%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "1,131,023"
+}, {
+    "company": "WPX Energy, Inc.",
+    "symbol": "WPX",
+    "price": "5.20",
+    "change": "-0.72",
+    "percentage": "-12.16%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "7,945,960"
+}, {
+    "company": "Vanguard Natural Resources, LLC",
+    "symbol": "VNRBP",
+    "price": "9.33",
+    "change": "-1.26",
+    "percentage": "-11.90%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "136,204"
+}, {
+    "company": "Denbury Resources Inc.",
+    "symbol": "DNR",
+    "price": "2.03",
+    "change": "-0.27",
+    "percentage": "-11.74%",
+    "lastTrade": "Dec 28 4:01 PM EST",
+    "volume": "10,563,207"
+}, {
+    "company": "Seventy Seven Energy Inc.",
+    "symbol": "SSE",
+    "price": "1.06",
+    "change": "-0.14",
+    "percentage": "-11.67%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "449,184"
+}, {
+    "company": "Atlas Energy Group, LLC",
+    "symbol": "ATLS",
+    "price": "0.8945",
+    "change": "-0.1155",
+    "percentage": "-11.44%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "257,928"
+}, {
+    "company": "Oasis Petroleum Inc.",
+    "symbol": "OAS",
+    "price": "7.05",
+    "change": "-0.91",
+    "percentage": "-11.43%",
+    "lastTrade": "Dec 28 4:02 PM EST",
+    "volume": "7,341,453"
+}, {
+    "company": "American Independence Corp.",
+    "symbol": "AMIC",
+    "price": "8.65",
+    "change": "-1.12",
+    "percentage": "-11.42%",
+    "lastTrade": "Dec 28 3:22 PM EST",
+    "volume": "2,204"
+}, {
+    "company": "Ignite Restaurant Group, Inc.",
+    "symbol": "IRG",
+    "price": "3.82",
+    "change": "-0.49",
+    "percentage": "-11.37%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "85,538"
+}, {
+    "company": "Altisource Asset Management Corporation",
+    "symbol": "AAMC",
+    "price": "18.01",
+    "change": "-2.29",
+    "percentage": "-11.28%",
+    "lastTrade": "Dec 28 4:01 PM EST",
+    "volume": "65,763"
+}, {
+    "company": "Legacy Reserves LP",
+    "symbol": "LGCY",
+    "price": "1.35",
+    "change": "-0.17",
+    "percentage": "-11.18%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "680,380"
+}, {
+    "company": "Direxion Dly S&P Oil&Gs Ex&Prd Bl 3X ETF",
+    "symbol": "GUSH",
+    "price": "6.43",
+    "change": "-0.80",
+    "percentage": "-11.01%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "285,253"
+}, {
+    "company": "Atlas Resource Partners, L.P. C",
+    "symbol": "ARP-PD",
+    "price": "5.78",
+    "change": "-0.7000",
+    "percentage": "-10.80%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "41,362"
+}, {
+    "company": "Linn Co, LLC",
+    "symbol": "LNCO",
+    "price": "1.08",
+    "change": "-0.13",
+    "percentage": "-10.74%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "2,179,534"
+}, {
+    "company": "Qumu Corporation",
+    "symbol": "QUMU",
+    "price": "2.50",
+    "change": "-0.30",
+    "percentage": "-10.71%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "34,746"
+}, {
+    "company": "Jones Energy, Inc.",
+    "symbol": "JONE",
+    "price": "3.75",
+    "change": "-0.45",
+    "percentage": "-10.71%",
+    "lastTrade": "Dec 28 4:01 PM EST",
+    "volume": "164,225"
+}, {
+    "company": "The LGL Group, Inc.",
+    "symbol": "LGL",
+    "price": "3.53",
+    "change": "-0.42",
+    "percentage": "-10.63%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "5,312"
+}, {
+    "company": "Kindred Biosciences, Inc.",
+    "symbol": "KIN",
+    "price": "3.57",
+    "change": "-0.42",
+    "percentage": "-10.53%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "76,092"
+}, {
+    "company": "Valeant Pharmaceuticals International, Inc.",
+    "symbol": "VRX",
+    "price": "102.14",
+    "change": "-11.97",
+    "percentage": "-10.49%",
+    "lastTrade": "Dec 28 4:04 PM EST",
+    "volume": "15,441,844"
+}, {
+    "company": "Rex Energy Corporation",
+    "symbol": "REXX",
+    "price": "0.922",
+    "change": "-0.108",
+    "percentage": "-10.49%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "2,508,972"
+}, {
+    "company": "ProShares UltraShort Junior Miners",
+    "symbol": "GDJS",
+    "price": "20.32",
+    "change": "-2.38",
+    "percentage": "-10.48%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "110"
+}, {
+    "company": "Power Solutions International, Inc.",
+    "symbol": "PSIX",
+    "price": "18.66",
+    "change": "-2.18",
+    "percentage": "-10.46%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "205,391"
+}, {
+    "company": "Luna Innovations Incorporated",
+    "symbol": "LUNA",
+    "price": "1.03",
+    "change": "-0.12",
+    "percentage": "-10.43%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "138,156"
+}, {
+    "company": "Energy XXI Ltd.",
+    "symbol": "EXXI",
+    "price": "1.08",
+    "change": "-0.12",
+    "percentage": "-10.42%",
+    "lastTrade": "Dec 28 3:59 PM EST",
+    "volume": "1,576,205"
+}, {
+    "company": "TCB-WT",
+    "symbol": "TCB-WT",
+    "price": "1.83",
+    "change": "-0.2100",
+    "percentage": "-10.29%",
+    "lastTrade": "Dec 28 4:00 PM EST",
+    "volume": "3,740"
+}]
