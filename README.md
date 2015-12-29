@@ -27,3 +27,5 @@ __3. 重点关注价格在5块到40块之间的股票（跌）__
 
 #资源
 ### [所有美股列表](http://www.nasdaq.com/screening/company-list.aspx)
+
+### [数据获取](http://xueqiu.com/v4/stock/quote.json?code=morn&_=1451384621774)
