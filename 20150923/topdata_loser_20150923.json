@@ -1,0 +1,401 @@
+[{
+    "company": "WaferGen Bio-systems, Inc.",
+    "symbol": "WGBS",
+    "price": "2.05",
+    "change": "-1.20",
+    "percentage": "-36.92%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "3,750,798"
+}, {
+    "company": "Hovnanian Enterprises Inc.",
+    "symbol": "HOVNP",
+    "price": "4.50",
+    "change": "-1.30",
+    "percentage": "-22.41%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "15,250"
+}, {
+    "company": "EnerJex Resources, Inc. 10% Ser",
+    "symbol": "ENRJ-P",
+    "price": "5.40",
+    "change": "-1.50",
+    "percentage": "-21.74%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "50,548"
+}, {
+    "company": "Northwest Biotherapeutics, Inc.",
+    "symbol": "NWBOW",
+    "price": "3.97",
+    "change": "-0.99",
+    "percentage": "-19.96%",
+    "lastTrade": "Sep 22 12:35 PM EDT",
+    "volume": "3,830"
+}, {
+    "company": "Horsehead Holding Corp.",
+    "symbol": "ZINC",
+    "price": "4.12",
+    "change": "-0.92",
+    "percentage": "-18.25%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "5,445,785"
+}, {
+    "company": "Mexco Energy Corporation",
+    "symbol": "MXC",
+    "price": "2.67",
+    "change": "-0.52",
+    "percentage": "-16.33%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "18,983"
+}, {
+    "company": "Tantech Holdings Ltd",
+    "symbol": "TANH",
+    "price": "21.28",
+    "change": "-4.12",
+    "percentage": "-16.22%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "223,756"
+}, {
+    "company": "ANI Pharmaceuticals, Inc.",
+    "symbol": "ANIP",
+    "price": "46.66",
+    "change": "-8.74",
+    "percentage": "-15.78%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "1,263,468"
+}, {
+    "company": "OptimumBank Holdings Inc.",
+    "symbol": "OPHC",
+    "price": "1.00",
+    "change": "-0.18",
+    "percentage": "-15.25%",
+    "lastTrade": "Sep 22 1:13 PM EDT",
+    "volume": "25,436"
+}, {
+    "company": "Blueprint Medicines Corporation",
+    "symbol": "BPMC",
+    "price": "25.13",
+    "change": "-4.36",
+    "percentage": "-14.78%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "521,931"
+}, {
+    "company": "Harvard Apparatus Regenerative Technology, Inc.",
+    "symbol": "HART",
+    "price": "1.00",
+    "change": "-0.17",
+    "percentage": "-14.53%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "165,324"
+}, {
+    "company": "Mirati Therapeutics, Inc.",
+    "symbol": "MRTX",
+    "price": "35.02",
+    "change": "-5.92",
+    "percentage": "-14.46%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "924,669"
+}, {
+    "company": "Apollo Medical Holdings, Inc.",
+    "symbol": "AMEH",
+    "price": "6.05",
+    "change": "-1.00",
+    "percentage": "-14.18%",
+    "lastTrade": "Sep 22 3:08 PM EDT",
+    "volume": "590"
+}, {
+    "company": "Marlin Business Services Corp.",
+    "symbol": "MRLN",
+    "price": "14.92",
+    "change": "-2.45",
+    "percentage": "-14.10%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "232,969"
+}, {
+    "company": "BTX-WT",
+    "symbol": "BTX-WT",
+    "price": "0.95",
+    "change": "-0.15",
+    "percentage": "-13.64%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "5,172"
+}, {
+    "company": "Direxion Daily Gold Miners Bull 3X ETF",
+    "symbol": "NUGT",
+    "price": "2.75",
+    "change": "-0.43",
+    "percentage": "-13.52%",
+    "lastTrade": "Sep 22 4:27 PM EDT",
+    "volume": "46,185,100"
+}, {
+    "company": "Peabody Energy Corporation",
+    "symbol": "BTU",
+    "price": "1.19",
+    "change": "-0.18",
+    "percentage": "-13.14%",
+    "lastTrade": "Sep 22 4:06 PM EDT",
+    "volume": "9,920,673"
+}, {
+    "company": "DYN-WT",
+    "symbol": "DYN-WT",
+    "price": "1.99",
+    "change": "-0.30",
+    "percentage": "-13.10%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "5,564"
+}, {
+    "company": "DepoMed Inc.",
+    "symbol": "DEPO",
+    "price": "24.18",
+    "change": "-3.51",
+    "percentage": "-12.68%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "2,483,138"
+}, {
+    "company": "CGG",
+    "symbol": "CGG",
+    "price": "3.75",
+    "change": "-0.53",
+    "percentage": "-12.38%",
+    "lastTrade": "Sep 22 4:04 PM EDT",
+    "volume": "18,722"
+}, {
+    "company": "Arch Coal Inc.",
+    "symbol": "ACI",
+    "price": "3.15",
+    "change": "-0.43",
+    "percentage": "-12.01%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "1,532,834"
+}, {
+    "company": "Horizon Pharma plc",
+    "symbol": "HZNP",
+    "price": "25.52",
+    "change": "-3.47",
+    "percentage": "-11.97%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "12,365,185"
+}, {
+    "company": "Intra-Cellular Therapies, Inc.",
+    "symbol": "ITCI",
+    "price": "44.95",
+    "change": "-5.90",
+    "percentage": "-11.60%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "2,290,967"
+}, {
+    "company": "Dicerna Pharmaceuticals, Inc.",
+    "symbol": "DRNA",
+    "price": "10.48",
+    "change": "-1.37",
+    "percentage": "-11.56%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "210,576"
+}, {
+    "company": "American Shared Hospital Services",
+    "symbol": "AMS",
+    "price": "1.86",
+    "change": "-0.24",
+    "percentage": "-11.43%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "15,928"
+}, {
+    "company": "SteadyMed Ltd.",
+    "symbol": "STDY",
+    "price": "3.37",
+    "change": "-0.43",
+    "percentage": "-11.32%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "10,158"
+}, {
+    "company": "Seres Therapeutics, Inc.",
+    "symbol": "MCRB",
+    "price": "38.60",
+    "change": "-4.72",
+    "percentage": "-10.90%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "437,917"
+}, {
+    "company": "GOL Linhas AÃ©reas Inteligentes S.A.",
+    "symbol": "GOL",
+    "price": "0.9201",
+    "change": "-0.1099",
+    "percentage": "-10.67%",
+    "lastTrade": "Sep 22 4:02 PM EDT",
+    "volume": "1,641,542"
+}, {
+    "company": "Lucas Energy, Inc.",
+    "symbol": "LEI",
+    "price": "2.19",
+    "change": "-0.26",
+    "percentage": "-10.61%",
+    "lastTrade": "Sep 22 4:01 PM EDT",
+    "volume": "49,219"
+}, {
+    "company": "Direxion Daily Jr Gld Mnrs Bull 3X ETF",
+    "symbol": "JNUG",
+    "price": "7.75",
+    "change": "-0.92",
+    "percentage": "-10.61%",
+    "lastTrade": "Sep 22 4:26 PM EDT",
+    "volume": "7,782,767"
+}, {
+    "company": "Lee Enterprises, Incorporated",
+    "symbol": "LEE",
+    "price": "1.70",
+    "change": "-0.20",
+    "percentage": "-10.53%",
+    "lastTrade": "Sep 22 4:01 PM EDT",
+    "volume": "114,865"
+}, {
+    "company": "Nivalis Therapeutics, Inc.",
+    "symbol": "NVLS",
+    "price": "15.25",
+    "change": "-1.77",
+    "percentage": "-10.40%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "79,264"
+}, {
+    "company": "CoLucid Pharmaceuticals, Inc.",
+    "symbol": "CLCD",
+    "price": "6.40",
+    "change": "-0.74",
+    "percentage": "-10.36%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "47,473"
+}, {
+    "company": "China Digital TV Holding Co., Ltd.",
+    "symbol": "STV",
+    "price": "2.08",
+    "change": "-0.24",
+    "percentage": "-10.34%",
+    "lastTrade": "Sep 22 4:02 PM EDT",
+    "volume": "275,090"
+}, {
+    "company": "China Auto Logistic Inc.",
+    "symbol": "CALI",
+    "price": "0.97",
+    "change": "-0.11",
+    "percentage": "-10.19%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "87,274"
+}, {
+    "company": "AtriCure, Inc.",
+    "symbol": "ATRC",
+    "price": "23.38",
+    "change": "-2.64",
+    "percentage": "-10.15%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "477,970"
+}, {
+    "company": "Sucampo Pharmaceuticals, Inc.",
+    "symbol": "SCMP",
+    "price": "24.76",
+    "change": "-2.79",
+    "percentage": "-10.13%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "1,448,298"
+}, {
+    "company": "Koss Corporation",
+    "symbol": "KOSS",
+    "price": "2.22",
+    "change": "-0.25",
+    "percentage": "-10.12%",
+    "lastTrade": "Sep 22 3:54 PM EDT",
+    "volume": "2,146"
+}, {
+    "company": "Talen Energy Corporation",
+    "symbol": "TLN",
+    "price": "10.78",
+    "change": "-1.19",
+    "percentage": "-9.94%",
+    "lastTrade": "Sep 22 4:01 PM EDT",
+    "volume": "2,458,132"
+}, {
+    "company": "Retrophin, Inc.",
+    "symbol": "RTRX",
+    "price": "22.64",
+    "change": "-2.46",
+    "percentage": "-9.80%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "2,234,437"
+}, {
+    "company": "Legacy Reserves LP",
+    "symbol": "LGCY",
+    "price": "4.71",
+    "change": "-0.51",
+    "percentage": "-9.77%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "505,307"
+}, {
+    "company": "Cheetah Mobile Inc.",
+    "symbol": "CMCM",
+    "price": "17.18",
+    "change": "-1.82",
+    "percentage": "-9.58%",
+    "lastTrade": "Sep 22 4:02 PM EDT",
+    "volume": "1,217,532"
+}, {
+    "company": "Lakeland Industries Inc.",
+    "symbol": "LAKE",
+    "price": "13.89",
+    "change": "-1.45",
+    "percentage": "-9.45%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "588,967"
+}, {
+    "company": "Emerald Oil, Inc.",
+    "symbol": "EOX",
+    "price": "2.21",
+    "change": "-0.23",
+    "percentage": "-9.43%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "295,308"
+}, {
+    "company": "Companhia Siderúrgica Nacional",
+    "symbol": "SID",
+    "price": "1.25",
+    "change": "-0.13",
+    "percentage": "-9.42%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "2,209,417"
+}, {
+    "company": "Navistar International Corporat",
+    "symbol": "NAV-PD",
+    "price": "4.76",
+    "change": "-0.49",
+    "percentage": "-9.33%",
+    "lastTrade": "Sep 22 10:25 AM EDT",
+    "volume": "100"
+}, {
+    "company": "GTX Inc.",
+    "symbol": "GTXI",
+    "price": "0.99",
+    "change": "-0.10",
+    "percentage": "-9.17%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "49,917"
+}, {
+    "company": "Magnum Hunter Resources Corpora",
+    "symbol": "MHR-PE",
+    "price": "6.25",
+    "change": "-0.63",
+    "percentage": "-9.16%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "9,846"
+}, {
+    "company": "SAExploration Holdings, Inc.",
+    "symbol": "SAEX",
+    "price": "2.81",
+    "change": "-0.28",
+    "percentage": "-9.06%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "12,277"
+}, {
+    "company": "Diplomat Pharmacy, Inc.",
+    "symbol": "DPLO",
+    "price": "35.14",
+    "change": "-3.50",
+    "percentage": "-9.06%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "3,271,201"
+}]

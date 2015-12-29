@@ -1,0 +1,28 @@
+{
+    "ganier": [{
+        "company": "RiT Technologies Ltd.",
+        "symbol": "RITT",
+        "price": "1.69",
+        "change": "+0.24",
+        "percentage": "+16.55%",
+        "lastTrade": "Sep 29 3:59 PM EDT",
+        "volume": "1,981,724"
+    }, {
+        "company": "RiT Technologies Ltd.",
+        "symbol": "RITT",
+        "price": "1.69",
+        "change": "+0.24",
+        "percentage": "+16.55%",
+        "lastTrade": "Sep 29 3:59 PM EDT",
+        "volume": "1,981,724"
+    }, {
+        "company": "Cantel Medical Corp.",
+        "symbol": "CMN",
+        "price": "54.48",
+        "change": "+4.77",
+        "percentage": "+9.60%",
+        "lastTrade": "Sep 29 4:03 PM EDT",
+        "volume": "275,475"
+    }],
+    "loser": []
+}

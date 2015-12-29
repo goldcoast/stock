@@ -1,0 +1,401 @@
+[{
+    "company": "Yuma Energy, Inc. 9.25% Series ",
+    "symbol": "YUMA-PA",
+    "price": "11.65",
+    "change": "+2.85",
+    "percentage": "+32.39%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "7,718"
+}, {
+    "company": "Cemtrex Inc.",
+    "symbol": "CETX",
+    "price": "4.33",
+    "change": "+0.84",
+    "percentage": "+24.07%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "3,209,638"
+}, {
+    "company": "Vascular Biogenics Ltd.",
+    "symbol": "VBLT",
+    "price": "9.88",
+    "change": "+1.78",
+    "percentage": "+21.98%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "7,018,777"
+}, {
+    "company": "WPCS International Incorporated",
+    "symbol": "WPCS",
+    "price": "1.46",
+    "change": "+0.24",
+    "percentage": "+19.67%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "4,659,933"
+}, {
+    "company": "Clean Diesel Technologies Inc.",
+    "symbol": "CDTI",
+    "price": "1.96",
+    "change": "+0.32",
+    "percentage": "+19.51%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "2,332,330"
+}, {
+    "company": "Yulong Eco-Materials Limited",
+    "symbol": "YECO",
+    "price": "4.50",
+    "change": "+0.70",
+    "percentage": "+18.42%",
+    "lastTrade": "Sep 22 3:10 PM EDT",
+    "volume": "2,956"
+}, {
+    "company": "Agile Therapeutics, Inc.",
+    "symbol": "AGRX",
+    "price": "8.16",
+    "change": "+1.13",
+    "percentage": "+16.07%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "124,123"
+}, {
+    "company": "Norsat International Inc.",
+    "symbol": "NSAT",
+    "price": "4.56",
+    "change": "+0.60",
+    "percentage": "+15.15%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "22,825"
+}, {
+    "company": "Conatus Pharmaceuticals Inc.",
+    "symbol": "CNAT",
+    "price": "4.96",
+    "change": "+0.62",
+    "percentage": "+14.29%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "839,556"
+}, {
+    "company": "Direxion Daily Gold Miners Bear 3X ETF",
+    "symbol": "DUST",
+    "price": "28.30",
+    "change": "+3.41",
+    "percentage": "+13.70%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "5,093,341"
+}, {
+    "company": "SmartPros Ltd.",
+    "symbol": "SPRO",
+    "price": "2.80",
+    "change": "+0.33",
+    "percentage": "+13.36%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "8,292"
+}, {
+    "company": "EASTMAN KODAK CO. WARRANTS EXP",
+    "symbol": "KODK-WT",
+    "price": "3.50",
+    "change": "+0.40",
+    "percentage": "+12.90%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "923"
+}, {
+    "company": "Micronet Enertec Technologies, Inc.",
+    "symbol": "MICT",
+    "price": "2.99",
+    "change": "+0.33",
+    "percentage": "+12.41%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "907"
+}, {
+    "company": "China Natural Resources Inc.",
+    "symbol": "CHNR",
+    "price": "1.60",
+    "change": "+0.17",
+    "percentage": "+11.89%",
+    "lastTrade": "Sep 22 3:58 PM EDT",
+    "volume": "4,800"
+}, {
+    "company": "Sevcon, Inc.",
+    "symbol": "SEV",
+    "price": "10.36",
+    "change": "+1.10",
+    "percentage": "+11.88%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "1,023"
+}, {
+    "company": "National Security Group Inc.",
+    "symbol": "NSEC",
+    "price": "15.74",
+    "change": "+1.64",
+    "percentage": "+11.59%",
+    "lastTrade": "Sep 22 3:58 PM EDT",
+    "volume": "12,989"
+}, {
+    "company": "ZAIS Group Holdings, Inc.",
+    "symbol": "ZAIS",
+    "price": "8.10",
+    "change": "+0.81",
+    "percentage": "+11.11%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "21,199"
+}, {
+    "company": "Medallion Financial Corp.",
+    "symbol": "TAXI",
+    "price": "8.07",
+    "change": "+0.80",
+    "percentage": "+11.00%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "1,423,491"
+}, {
+    "company": "ProShares UltraShort Junior Miners",
+    "symbol": "GDJS",
+    "price": "24.26",
+    "change": "+2.39",
+    "percentage": "+10.93%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "1,258"
+}, {
+    "company": "Weatherford International plc",
+    "symbol": "WFT",
+    "price": "9.31",
+    "change": "+0.90",
+    "percentage": "+10.70%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "68,781,829"
+}, {
+    "company": "Can-Fite BioPharma Ltd.",
+    "symbol": "CANF",
+    "price": "4.04",
+    "change": "+0.39",
+    "percentage": "+10.68%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "8,278,582"
+}, {
+    "company": "KraneShares CSI New China ETF",
+    "symbol": "KFYP",
+    "price": "51.98",
+    "change": "+5.01",
+    "percentage": "+10.67%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "432"
+}, {
+    "company": "Cryoport, Inc.",
+    "symbol": "CYRX",
+    "price": "2.82",
+    "change": "+0.27",
+    "percentage": "+10.59%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "15,491"
+}, {
+    "company": "ProShares Ultra VIX Short-Term Futures",
+    "symbol": "UVXY",
+    "price": "51.00",
+    "change": "+4.86",
+    "percentage": "+10.53%",
+    "lastTrade": "Sep 22 4:47 PM EDT",
+    "volume": "25,019,811"
+}, {
+    "company": "Idera Pharmaceuticals, Inc.",
+    "symbol": "IDRA",
+    "price": "3.79",
+    "change": "+0.36",
+    "percentage": "+10.50%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "2,052,717"
+}, {
+    "company": "VelocityShares Daily 2x VIX ST ETN",
+    "symbol": "TVIX",
+    "price": "11.11",
+    "change": "+1.04",
+    "percentage": "+10.35%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "23,497,775"
+}, {
+    "company": "Teladoc, Inc.",
+    "symbol": "TDOC",
+    "price": "24.50",
+    "change": "+2.26",
+    "percentage": "+10.16%",
+    "lastTrade": "Sep 22 4:04 PM EDT",
+    "volume": "497,862"
+}, {
+    "company": "Direxion Daily Jr Gld Mnrs Bear 3X ETF",
+    "symbol": "JDST",
+    "price": "9.83",
+    "change": "+0.90",
+    "percentage": "+10.08%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "5,120,785"
+}, {
+    "company": "LiqTech International, Inc.",
+    "symbol": "LIQT",
+    "price": "1.14",
+    "change": "+0.10",
+    "percentage": "+9.62%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "162,151"
+}, {
+    "company": "ProShares UltraShort Gold Miners",
+    "symbol": "GDXS",
+    "price": "35.98",
+    "change": "+2.99",
+    "percentage": "+9.06%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "8,922"
+}, {
+    "company": "B.O.S. Better Online Solutions Ltd.",
+    "symbol": "BOSC",
+    "price": "2.471",
+    "change": "+0.201",
+    "percentage": "+8.85%",
+    "lastTrade": "Sep 22 10:57 AM EDT",
+    "volume": "2,982"
+}, {
+    "company": "Pointer Telocation Ltd.",
+    "symbol": "PNTR",
+    "price": "6.74",
+    "change": "+0.54",
+    "percentage": "+8.71%",
+    "lastTrade": "Sep 22 2:23 PM EDT",
+    "volume": "4,247"
+}, {
+    "company": "Origin Agritech Limited",
+    "symbol": "SEED",
+    "price": "1.50",
+    "change": "+0.12",
+    "percentage": "+8.70%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "10,402"
+}, {
+    "company": "General Finance Corporation",
+    "symbol": "GFN",
+    "price": "3.73",
+    "change": "+0.29",
+    "percentage": "+8.43%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "70,504"
+}, {
+    "company": "Axovant Sciences Ltd.",
+    "symbol": "AXON",
+    "price": "15.61",
+    "change": "+1.15",
+    "percentage": "+7.95%",
+    "lastTrade": "Sep 22 4:01 PM EDT",
+    "volume": "443,903"
+}, {
+    "company": "Willbros Group Inc.",
+    "symbol": "WG",
+    "price": "1.66",
+    "change": "+0.12",
+    "percentage": "+7.79%",
+    "lastTrade": "Sep 22 4:01 PM EDT",
+    "volume": "758,674"
+}, {
+    "company": "Sanchez Production Partners LP",
+    "symbol": "SPP",
+    "price": "4.51",
+    "change": "+0.30",
+    "percentage": "+7.13%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "3,775"
+}, {
+    "company": "Direxion Daily Dev Mkts Bear 3X ETF",
+    "symbol": "DPK",
+    "price": "35.43",
+    "change": "+2.35",
+    "percentage": "+7.10%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "31,411"
+}, {
+    "company": "Sequenom Inc.",
+    "symbol": "SQNM",
+    "price": "2.12",
+    "change": "+0.14",
+    "percentage": "+7.07%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "1,089,947"
+}, {
+    "company": "Boingo Wireless, Inc.",
+    "symbol": "WIFI",
+    "price": "8.51",
+    "change": "+0.56",
+    "percentage": "+7.04%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "508,017"
+}, {
+    "company": "Direxion Daily Russia Bear 3X ETF",
+    "symbol": "RUSS",
+    "price": "40.95",
+    "change": "+2.69",
+    "percentage": "+7.03%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "299,935"
+}, {
+    "company": "Nathan's Famous Inc.",
+    "symbol": "NATH",
+    "price": "42.77",
+    "change": "+2.80",
+    "percentage": "+6.99%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "92,540"
+}, {
+    "company": "Condor Hospitality Trust Inc.",
+    "symbol": "CDORO",
+    "price": "19.25",
+    "change": "+1.25",
+    "percentage": "+6.94%",
+    "lastTrade": "Sep 22 9:30 AM EDT",
+    "volume": "550"
+}, {
+    "company": "OpGen, Inc.",
+    "symbol": "OPGN",
+    "price": "3.09",
+    "change": "+0.20",
+    "percentage": "+6.92%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "9,117"
+}, {
+    "company": "VelocityShares 3x Inverse Silver ETN",
+    "symbol": "DSLV",
+    "price": "65.01",
+    "change": "+4.20",
+    "percentage": "+6.91%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "44,931"
+}, {
+    "company": "LightPath Technologies, Inc.",
+    "symbol": "LPTH",
+    "price": "1.7199",
+    "change": "+0.1099",
+    "percentage": "+6.83%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "126,260"
+}, {
+    "company": "Jaguar Animal Health, Inc.",
+    "symbol": "JAGX",
+    "price": "4.00",
+    "change": "+0.25",
+    "percentage": "+6.67%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "1,972"
+}, {
+    "company": "DB Base Metals Double Short ETN",
+    "symbol": "BOM",
+    "price": "22.39",
+    "change": "+1.39",
+    "percentage": "+6.62%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "3,860"
+}, {
+    "company": "Direxion Daily Semicondct Bear 3X ETF",
+    "symbol": "SOXS",
+    "price": "61.92",
+    "change": "+3.84",
+    "percentage": "+6.61%",
+    "lastTrade": "Sep 22 4:00 PM EDT",
+    "volume": "177,281"
+}, {
+    "company": "Nymox Pharmaceutical Corporation",
+    "symbol": "NYMX",
+    "price": "3.2799",
+    "change": "+0.1999",
+    "percentage": "+6.49%",
+    "lastTrade": "Sep 22 3:59 PM EDT",
+    "volume": "1,372,656"
+}]
