@@ -1,5 +1,6 @@
 # Practise Node.JS
-   
+
+##1.说明
 ### 功能  
 1. 对比昨天的涨跌top50的数据，有多少是前一天发季报的。 （top50 是yahoo最多只提供当天前50）  
 2. 遍历股票列表，取出当前价格离52weeklow高20%内的股票，52weekhigh需比low高50%  
@@ -22,8 +23,14 @@ __3. 重点关注价格在5块到40块之间的股票（跌）__
 
   
 ### bug  
-1. http抓取时经常timeout. fixed 需要翻墙， 国内速度太慢。
+1. http抓取时经常timeout. fixed 需要翻墙， 国内速度太慢。  
 
+##2.安装及运行  
+*1. 安装  
+`npm install`  
+*2. 运行  
+`node app.js`  
+*3. 在浏览器中打开 http://localhost:2013/
 
 #资源
 ### [所有美股列表](http://www.nasdaq.com/screening/company-list.aspx)

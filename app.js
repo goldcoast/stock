@@ -255,7 +255,7 @@ app.get("/", function(req, res, next){
 
 	// filterSymbol();
 
-	console.info('');
+	console.info('done...');
 	res.send(resultStr);
 });
 
