@@ -10,6 +10,7 @@ var express = require('express'),
 
 console.log('--- current time', (new Date().toLocaleString()));
 
+
 function test() {
 	console.log('....', (new Date().toLocaleString()));
 	// count--;
@@ -38,20 +39,21 @@ var today = (new Date()).toISOString().slice(0, 10).replace(/-/g,''),
 //toISOString The timezone is always zero UTC offset, as denoted by the suffix "Z".
 //所以需要再加上8个小时，才是当前本地北京时间
 	reportDay = (new Date().addHours(8-12)).toISOString().slice(0, 10).replace(/-/g,'');
-	
-
+	if (reportDay.indexOf('1230')>-1 || reportDay.indexOf('1231')>-1) {
+		reportDay='today';
+	};
 //文件名带上时间戳,文件名为本地时间
 var getTimestamp = function(){
 	return (new Date().addHours(8)).toISOString().slice(0, 16).replace(/-/g,'').replace(/:/g,'');
 }
 
-console.log('today is:', today, 'report day:', reportDay);
+console.log('today is:', today, 'report day:', (typeof reportDay));·
 var topLength = 50,
 	TIME_OUT = 5000, //5S
 	topGaniersLink = 'http://finance.yahoo.com/_remote/?m_id=MediaRemoteInstance&instance_id=85ac7b2b-640f-323f-a1c1-00b2f4865d18&mode=xhr&ctab=tab2&nolz=1&count='+topLength+'&start=0&category=percentagegainers&no_tabs=1',
 	topLosersLink  = 'http://finance.yahoo.com/_remote/?m_id=MediaRemoteInstance&instance_id=85ac7b2b-640f-323f-a1c1-00b2f4865d18&mode=xhr&ctab=tab3&nolz=1&count='+topLength+'&start=0&category=percentagelosers&no_tabs=1',
 	stockCenterLink = 'http://finance.yahoo.com/stock-center/',
-	earningsCalendarLink = 'http://biz.yahoo.com/research/earncal/'+reportDay+'.html';
+	earningsCalendarLink = 'http://biz.yahoo.com/research/earncal/'+reportDay+'.html'; // 12月30，31号,1月2，3号 没有数据的（这几天没有年报发布）
 
 var reportFile = 'earningsCalendar_'+reportDay+'.json',
 	ganiersFile = '';

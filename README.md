@@ -24,6 +24,7 @@ __3. 重点关注价格在5块到40块之间的股票（跌）__
   
 ### bug  
 1. http抓取时经常timeout. fixed 需要翻墙， 国内速度太慢。  
+2. 没有数据的（这几天没有年报发布）那几天的代码需用today代替，做好点的话需要加入美股的休市假期判断，不然数据是有重复的，目前也没有去判断周六日发布报表的数据。（调试用这个天的数据 http://biz.yahoo.com/research/earncal/20160103.html）
 
 ##2.安装及运行  
 *1. 安装  
@@ -36,3 +37,8 @@ __3. 重点关注价格在5块到40块之间的股票（跌）__
 ### [所有美股列表](http://www.nasdaq.com/screening/company-list.aspx)
 
 ### [数据获取](http://xueqiu.com/v4/stock/quote.json?code=morn&_=1451384621774)
+
+### [财报日历](http://biz.yahoo.com/r/)
+
+### [内部交易](http://traceinvest.com/)
+
