@@ -47,7 +47,7 @@ var getTimestamp = function(){
 	return (new Date().addHours(8)).toISOString().slice(0, 16).replace(/-/g,'').replace(/:/g,'');
 }
 
-console.log('today is:', today, 'report day:', (typeof reportDay));·
+console.log('today is:', today);
 var topLength = 50,
 	TIME_OUT = 5000, //5S
 	topGaniersLink = 'http://finance.yahoo.com/_remote/?m_id=MediaRemoteInstance&instance_id=85ac7b2b-640f-323f-a1c1-00b2f4865d18&mode=xhr&ctab=tab2&nolz=1&count='+topLength+'&start=0&category=percentagegainers&no_tabs=1',
