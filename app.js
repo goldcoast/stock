@@ -199,6 +199,12 @@ var getReportCompanys = function(req, res, next){
 			.end(function(err,sres){
 				if (err) {
 					console.error('occured excpetion in getReportCompanys()...')
+					console.error('err',err)
+					if (err.response.res.statusCode==404) {
+						earningsCalendarLink='http://biz.yahoo.com/research/earncal/today.html';
+						getReportCompanys(req,res, next);
+						return;
+					};
 					return next(err);
 				};
 
