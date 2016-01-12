@@ -8,7 +8,7 @@ var express = require('express'),
 	agent = require('superagent-promise')(require('superagent'), Promise);
 
 
-console.log('--- current time', (new Date().toLocaleString()));
+console.log('--- 当前时间', (new Date().toLocaleString()) );
 
 
 function test() {
